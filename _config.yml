@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Keelan Cook"
-  avatar : "/assets/images/keelan-seal.png"
+  avatar : "/assets/images/keelan-headshot.jpg"
   bio    : "The personal website for Keelan Cook. Look here for a current copy of my CV, a list of ongoing projects, and the occasional family and life update."
   links:
     - label: "Website"
