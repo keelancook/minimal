@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Testing Minimal Mistakes remote theme for usage with as my personal website.
 twitter_username: keelancook
 github_username: keelancook
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: plum
 search: true
 
 # Build settings
