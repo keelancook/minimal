@@ -1,11 +1,5 @@
 main:
-  - title: "Articles"
-    url: /posts/
   - title: "About"
     url: /about/
   - title: Curriculm Vitae
     url: /cv/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
