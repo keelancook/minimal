@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Welcome to my personal website!
-author: Keelan Cook
 
 ---
 
