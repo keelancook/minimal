@@ -1,6 +1,5 @@
 ---
 title: Introducing Charles Ezra Cook
-author: Keelan Cook
 created: 2021-02-19
 
 ---
