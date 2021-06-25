@@ -1,6 +1,6 @@
 main:
   - title: "Articles"
-    url: /home/
+    url: /posts/
   - title: "About"
     url: /about/
   - title: Curriculm Vitae
