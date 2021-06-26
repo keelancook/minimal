@@ -61,9 +61,7 @@ plugins:
 author:
   name   : "Keelan Cook"
   avatar : "/assets/images/keelan-headshot.jpg"
-  bio    : "Keelan Cook leads the Peoples Next Door project and is an Associate Director with the Union Baptist Association in Houston, TX. He also serves as instructor of North American missiology at Southeastern Baptist Theological Seminary.
-
-In previous years, he spent time as a church planter in West Africa with the IMB and doing ethno-graphic research in Washington, DC with NAMB."
+  bio    : "Keelan Cook is an Associate Director with the Union Baptist Association in Houston, TX and serves as an instructor of North American missiology at Southeastern Baptist Theological Seminary."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
