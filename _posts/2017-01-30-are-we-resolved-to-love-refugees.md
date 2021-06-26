@@ -1,9 +1,7 @@
 ---
 title: "Are We Resolved To Love Refugees?"
 date: "2017-01-30"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "gospel"
   - "immigration"

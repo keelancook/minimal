@@ -1,9 +1,7 @@
 ---
-title: "At the Master's knees"
+title: "At the Master's Knees"
 date: "2012-04-30"
-categories: 
-  - "discipleship"
-  - "from-the-word"
+
 tags: 
   - "bible-study"
   - "discipleship"

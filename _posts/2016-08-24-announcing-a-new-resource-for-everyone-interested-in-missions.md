@@ -1,8 +1,7 @@
 ---
 title: "Announcing a New Resource for Everyone Interested in Missions"
 date: "2016-08-24"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "cgcs"
   - "missions"

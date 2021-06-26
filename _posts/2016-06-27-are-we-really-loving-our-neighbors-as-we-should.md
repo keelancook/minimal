@@ -1,9 +1,7 @@
 ---
 title: "Are We Really Loving Our Neighbors as We Should?"
 date: "2016-06-27"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "gospel"
   - "great-commandment"

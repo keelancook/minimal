@@ -1,8 +1,7 @@
 ---
 title: "\"Are You Still Watching?\" Thinking Rightly About Online Worship Views"
 date: "2020-05-14"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "church-growth"

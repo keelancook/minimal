@@ -1,10 +1,7 @@
 ---
 title: "Another Journal Entry - 11/12/09"
 date: "2010-02-24"
-categories: 
-  - "discipleship"
-  - "from-africa"
-  - "moments-in-time"
+
 tags: 
   - "journal-entry"
 ---

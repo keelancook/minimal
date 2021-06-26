@@ -1,9 +1,7 @@
 ---
 title: "Are we planting churches or worship services?"
 date: "2017-04-05"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "missions"
