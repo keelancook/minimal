@@ -18,8 +18,8 @@ subtitle: Missiologist
 logo: "/assets/images/seal.png"
 email: kcook@sebts.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Testing Minimal Mistakes remote theme for usage with as my personal website.
-url: "https:keelancook.ml/mm-test"
+  The online home for Keelan Cook. Keelan is a missiologist who researches and writes on church and missions both in a North American and international context.
+url: "https:keelancook.ml/"
 twitter_username: keelancook
 github_username: keelancook
 minimal_mistakes_skin: air
