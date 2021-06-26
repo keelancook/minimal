@@ -8,7 +8,7 @@ tags:
   - "missions"
 
 header:
-  overlay_image: /assets/images/b4a26-bond-fire-1-copy.jpg
+  image: /assets/images/b4a26-bond-fire-1-copy.jpg
 ---
 
 _If you visit the PND site regularly, this article is by a familiar face. Her earlier articles were under her maiden name, Meredith Cooper. About three months ago, I was happy to change that last name for her when we got married. Meredith is a gifted student of missions and here provides a snapshot biblical theology of missions in the Bible. Every Great Commission Christian should commit this to memory, because it is the foundation of all we do._
