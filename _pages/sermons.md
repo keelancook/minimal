@@ -1,12 +1,10 @@
 ---
 title: Sermons
-permalink::/sermons/
-tags: page
-
+permalink: /sermons/
 ---
 
----
 
+---
 
 ## Neartown Church
 Neartown is our current church family and I have the pleasure of serving on the preaching team.
