@@ -1,6 +1,5 @@
 ---
-layout: default
-permalinkj: /projects/
+permalink: /projects/
 title: Projects
 modified: 2021-02-26T06:15:45-06:00
 ---
