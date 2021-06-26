@@ -1,8 +1,7 @@
 ---
 title: "Bourdain Tastes the Nations... in Houston (VIDEO)"
 date: "2016-11-02"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "culture"

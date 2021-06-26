@@ -1,8 +1,7 @@
 ---
 title: "Chiming in: \"A church is not a random sampling of the place it is in\""
 date: "2015-09-30"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "cities"

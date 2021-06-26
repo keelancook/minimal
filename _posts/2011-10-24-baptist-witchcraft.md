@@ -1,8 +1,7 @@
 ---
 title: "Baptist witchcraft"
 date: "2011-10-24"
-categories: 
-  - "discipleship"
+
 tags: 
   - "christ"
   - "christian-slogans"

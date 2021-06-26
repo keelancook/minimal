@@ -1,10 +1,7 @@
 ---
 title: "Ephesus: Causing ripples"
 date: "2010-08-16"
-categories: 
-  - "discipleship"
-  - "from-africa"
-  - "from-the-word"
+
 tags: 
   - "bible-study"
   - "discipleship"

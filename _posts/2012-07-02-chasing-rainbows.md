@@ -1,8 +1,7 @@
 ---
 title: "Chasing rainbows"
 date: "2012-07-02"
-categories: 
-  - "discipleship"
+
 tags: 
   - "christ"
   - "culture"

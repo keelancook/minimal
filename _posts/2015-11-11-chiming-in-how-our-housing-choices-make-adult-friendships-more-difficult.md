@@ -1,8 +1,7 @@
 ---
 title: "Chiming in: \"How our housing choices make adult friendships more difficult\""
 date: "2015-11-11"
-categories: 
-  - "peoples-next-door"
+
 coverImage: "c1a18-stairs-e1447256275160.jpg"
 ---
 

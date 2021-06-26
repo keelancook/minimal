@@ -1,10 +1,7 @@
 ---
 title: "A better way: An alternative to dumping Starbucks"
 date: "2013-03-29"
-categories: 
-  - "discipleship"
-  - "from-the-word"
-  - "moments-in-time"
+
 tags: 
   - "christian-subculture"
   - "culture"

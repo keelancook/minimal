@@ -1,9 +1,7 @@
 ---
 title: "Biblically Faithful or Culturally Relevant: Why not both?"
 date: "2016-09-28"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "contextualization"

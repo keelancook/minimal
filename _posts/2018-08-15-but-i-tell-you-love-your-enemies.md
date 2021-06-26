@@ -1,8 +1,7 @@
 ---
 title: "\"But I tell you, love your enemies...\""
 date: "2018-08-15"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "christian-ethic"
   - "culture"

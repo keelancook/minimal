@@ -1,8 +1,7 @@
 ---
 title: "Bust the Peer Bubble in Your Church"
 date: "2019-03-25"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-ministry"
   - "generational-conflict-in-church"

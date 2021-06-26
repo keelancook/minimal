@@ -1,9 +1,7 @@
 ---
 title: "Begin with the End in Mind: The Importance of an Exit Strategy"
 date: "2016-06-20"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "exit-strategy"

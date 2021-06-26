@@ -1,8 +1,7 @@
 ---
 title: "Breaking Down the Refugee Crisis"
 date: "2016-02-19"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "europe"
   - "middle-east"

@@ -1,8 +1,7 @@
 ---
 title: "Becoming mummies"
 date: "2011-10-17"
-categories: 
-  - "discipleship"
+
 tags: 
   - "discipleship"
   - "mummies"
