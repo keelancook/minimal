@@ -2,6 +2,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /posts/
+    url: /projects/
   - title: Curriculm Vitae
     url: /cv/
