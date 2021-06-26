@@ -13,7 +13,7 @@ Neartown is our current church family and I have the pleasure of serving on the 
 
 ---
 
-#### United We Stand: The Great Commmission and Race
+#### United We Stand: The Great Commission and Race
 
 <div class="video-responsive">
 <iframe width="560"   height="315" src="https://www.youtube.com/embed/-yHWqJs873g?start=321" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
