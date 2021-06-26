@@ -75,7 +75,7 @@ author:
       url: "https://facebook.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon-square"
-      url: "https://mastodon.social/keelancook"
+      url: "https://mastodon.social/@keelan"
 
 footer:
   links:
@@ -87,7 +87,7 @@ footer:
       url: "https://facebook.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon-square"
-      url: "https://mastodon.social/keelancook"
+      url: "https://mastodon.social/@keelan"
 
 defaults:
   # _posts
