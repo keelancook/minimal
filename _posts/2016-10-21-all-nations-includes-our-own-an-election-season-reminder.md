@@ -1,9 +1,7 @@
 ---
 title: "\"All Nations\" Includes Our Own: An Election Season Reminder"
 date: "2016-10-21"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "election"

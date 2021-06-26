@@ -1,8 +1,7 @@
 ---
 title: "American churches, we have been here before with immigration."
 date: "2017-08-07"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "home-missions"
   - "how-to-minister-to-immigrants"

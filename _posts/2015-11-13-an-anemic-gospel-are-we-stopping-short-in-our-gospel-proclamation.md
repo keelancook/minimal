@@ -1,8 +1,7 @@
 ---
 title: "An Anemic Gospel: Are We Stopping Short in Our Gospel Proclamation?"
 date: "2015-11-13"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "evangelism"

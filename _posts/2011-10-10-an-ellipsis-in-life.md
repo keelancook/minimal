@@ -1,9 +1,7 @@
 ---
 title: "An ellipsis in life"
 date: "2011-10-10"
-categories: 
-  - "discipleship"
-  - "moments-in-time"
+
 tags: 
   - "discipleship"
   - "plans"

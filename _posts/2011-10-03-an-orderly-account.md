@@ -1,9 +1,7 @@
 ---
 title: "An orderly account"
 date: "2011-10-03"
-categories: 
-  - "discipleship"
-  - "from-the-word"
+
 tags: 
   - "bible-study"
   - "discipleship"

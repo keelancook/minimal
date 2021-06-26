@@ -1,9 +1,7 @@
 ---
 title: "An Appeal to Young Southern Baptists"
 date: "2016-06-17"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "convention"
   - "cooperation"

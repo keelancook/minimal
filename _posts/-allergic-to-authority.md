@@ -1,9 +1,7 @@
 ---
 title: "Allergic to authority"
 date: "2013-02-01"
-categories: 
-  - "discipleship"
-  - "from-the-word"
+
 tags: 
   - "authority"
   - "bible-study"

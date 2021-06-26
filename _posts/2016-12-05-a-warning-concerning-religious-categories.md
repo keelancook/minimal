@@ -1,9 +1,7 @@
 ---
 title: "A Warning Concerning Religious Categories"
 date: "2016-12-05"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "culture"
   - "gospel"

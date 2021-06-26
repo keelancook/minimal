@@ -1,8 +1,7 @@
 ---
 title: "A Word of Advice from the Father of Missions"
 date: "2016-02-29"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "great-commission"
   - "international"

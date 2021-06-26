@@ -1,10 +1,7 @@
 ---
 title: "Addressing the state of our union"
 date: "2011-01-28"
-categories: 
-  - "from-africa"
-  - "moments-in-time"
-  - "peoples-next-door"
+
 tags: 
   - "christian-subculture"
   - "culture"

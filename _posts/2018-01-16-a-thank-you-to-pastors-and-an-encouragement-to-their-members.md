@@ -1,13 +1,13 @@
 ---
 title: "A Thank You to Pastors (And an Encouragement to Their Members)"
 date: "2018-01-16"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "pastoring"
   - "shepherding"
-coverImage: "2e8d1-ben-white-292680.jpg"
+header:
+  image: "2e8d1-ben-white-292680.jpg"
 ---
 
 Life has been full of changes for us in the last year and lately I've been reflecting on the Lord's faithfulness in our lives: helping us feel at home in Houston, giving us a church and friends, and simply helping us to like where we are and what we are doing. But I've also been reflecting on how grateful I am for the pastors who helped me along the way—not just in the last year, but through my whole life. The Lord has orchestrated moments throughout my 30 years that have led me to where I am now. He has used many people—family and friends—to help me through each step of my life. But when I look back on what I consider the most pivotal moments in my life, there has also always been a pastor who has played a major role in those.
