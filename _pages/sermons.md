@@ -48,7 +48,7 @@ Neartown is our current church family and I have the pleasure of serving on the 
 ---
 
 ## Other Venues
-Below is a short list of sermons from other venues. Most of these are churches in our local association in Houston. I'm privileged to preach often in our network of churches. Others are conferences or seminars.
+Below is a shortlist of sermons from other venues. Most of these are churches in our local association in Houston. I'm privileged to preach often in our network of churches. Others are conferences or seminars.
 
 #### Redemption Accomplished and Applied
 <div class="video-responsive">
