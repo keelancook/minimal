@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Keelan Cook"
@@ -69,19 +70,24 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/keelancook"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/keelancook"
+      label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/keelancook"
+      label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon-square"
+      url: "https://mastodon.social/keelancook"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/keelancook"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/keelancook"
-
+      label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/keelancook"
+      label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon-square"
+      url: "https://mastodon.social/keelancook"
 
 defaults:
   # _posts
