@@ -1,0 +1,43 @@
+---
+title: "I am 30"
+date: "2012-04-09"
+categories: 
+  - "discipleship"
+  - "from-the-word"
+  - "moments-in-time"
+tags: 
+  - "birthday"
+  - "discipleship"
+  - "purpose"
+  - "the-gospel"
+---
+
+“The only thing good about 29 is the fact that it is not 30.” At least, that is what I said on this day last year. You may want to read that post first. It is called [Confessions of a 29-year-old](http://blog.keelancook.com/2011/04/confessions-of-a-29-year-old.html "Confessions of a 29-year-old").
+
+It is funny. For years, 30 was that age off in the future. As I got older, I stared at 30 down the end of the long hall, thinking, “At least I’m not 30 yet.”
+
+Today, I stand on the other side of that number. I am 30.
+
+Is it a human tendency to evaluate oneself on their birthday? That appears to be how I spend mine. I often sit back and think through my life, with its twists and turns, its unexpected detours from the road I only thought I was traveling. Inevitably, I find myself attempting some measurement of this endeavor’s success.
+
+Has life been successful?
+
+If my comparison is the American Dream, then I screwed up big somewhere along the path. For starters, I am not married. I have no children running around in the yard of a house I do not own. Over ten years out of high school with an undergraduate and graduate degree under my belt, and I should be sitting in some office somewhere running a lucrative company or pacing a courtroom while I attempt to persuade a jury.  Perhaps, I should be running for office. That seems to be a fashionable thing to do lately.
+
+Instead, I live in a small apartment. I work part time as an Internet consultant. I sit at home, in my Ninja Turtle pajamas, staring at a computer screen. Sounds bleak, huh?
+
+But then, I remind myself of my accomplishments. I have a few. After all, the reason I live in this tiny apartment in the first place is my pursuit of a PhD. Dr. Cook sounds nice, does it not? Somehow though, this pursuit, in itself, is as empty as the first.
+
+Or, I think of my journeys. I watched the sun rise over a Cappadocian desert and watched it set over the Atlantic Ocean (and the Pacific for that matter). I have done things most people will never do. I traveled the world. I lived in the jungle. I experienced cultures, peoples, and places that most will never see. I heard the sounds of tribal drums calling a village meeting to order. I sat under mango trees philosophizing with chiefs and elders. Yet, at the end of the day, this brings no real satisfaction either.
+
+At most, these things, whether a fancy title in front of my name or a checklist of adventures, only pacify a sense of significance.
+
+In the end, this stacking up of deeds makes no one successful. We must agree with the wise Solomon when he says, “I have seen everything that is done under the sun, and behold, all is vanity and a striving after wind” (Ecc. 1:14). For, a deed done simply for the sense of accomplishment is no real deed at all. There must be a purpose or it is a deed done in vain. However, it cannot be any purpose. It must be the only purpose that gives meaning to all life.
+
+In the beginning, God made man for a reason. We were to worship God by exercising dominion, in his image, over his creation. We have always had a purpose, but we tossed it away. We sought our own purposes, and now all of humanity strives after the wind. We try to grasp air.
+
+A successful life does away with its own purposes and runs back to those for which it was created. The wise king says it this way, “The end of the matter, all has been heard. Fear God and keep his commandments, for this is the whole duty of man” (Ecc. 12:13).
+
+Those same vain, empty actions discussed above, when imbued with real purpose, become the obedient steps to success.
+
+May your life be a real success.

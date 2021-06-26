@@ -1,0 +1,27 @@
+---
+title: "The Necessity of Community"
+date: "2017-05-17"
+categories: 
+  - "peoples-next-door"
+coverImage: "09548-mike-erskine-144525-1.jpg"
+---
+
+I recently traveled to North Carolina for my seminary graduation, and while there, I was able to spend time with friends from the church I was a member of while living there. We had a great community in Raleigh and are looking forward to growing our community here in Houston. Our church in North Carolina kept us accountable, provided for us, served us, and allowed themselves to be inconvenienced for us. And we did the same for them.
+
+We are made to be in community. On the flight home to Houston, I saw an ad for an app called "Mittcute" which allows users to meet new people based on similar interests such as kayaking, hiking, reading, or cooking. This isn't the first I've heard of such a service. Even the secular world is recognizing that people are not meant to do life alone and is seeking to rectify loneliness through apps, community events, social media, etc. As believers, though, we have something better. We have the church.
+
+### It is not good for man to be alone.
+
+The Bible's second chapter sets up man's need for other people. This may seem like a stretch, as the passage is specifically talking about a wife/helper for Adam, but as we continue reading through the Bible, we see a clear need for community among God's people. In 1 Kings 19, Elijah cried out to God lamenting his fear and loneliness, afraid he was the only faithful person left in Israel. But God told him of 7,000 other faithful people that He had preserved in an otherwise rebellious time in Israel's history. Psalm 133:1 states, “How good and pleasant it is when brothers live together in harmony.” When Christ established the church, he spoke to plural “you,” not singular “you.” Paul compares the church to the human body, which needs all the members in order to function properly.
+
+The best illustration of this community is found in Acts 2, which describes the early church. All believers were together and had everything in common. They devoted themselves to the apostles' teaching, to fellowship, and to prayer. The Bible shows our need for other believers to help us in our walk with Christ. While we are never truly alone, as the Lord promises to always be with us, He purposefully gave us a family of other believers.
+
+That the gospel brings us into the church is a significant aspect of evangelism. It’s like that game you played as a kid: Red Rover. Two groups stand opposite of one another. One group invites a member of the other to leave their group, run over and join them. When we call unbelievers to respond to the gospel in repentance, we are not just calling them to leave their old life behind. There is more to the gospel than just giving up our sinful ways (although it certainly not less than this, either). We are calling people into a community, a family of people who have the most important thing in common- their faith in Christ.
+
+This is something to consider, especially when working cross-culturally. Many unreached peoples come from highly communal, family-oriented cultures, many of which are very tied to their religious identity as well. To accept the gospel often means to be disowned by family and the local community. Many will reject the gospel not because they don't believe it, but because they can't stand the thought of being separated from their family. When we share the gospel with these people, we must emphasize the fact that although they may be rejected by their biological families, they are being introduced into another family, one of believers that will support them in their newfound faith.
+
+### Necessarily communal
+
+On the other hand, the community thing is a difficult concept to grasp for those of us from a Western, individualistic culture. We struggle more with the communal aspect of the gospel. It doesn't always feel natural to identify ourselves with other believers, much less submit ourselves to this community. But just as the gospel does not leave us alone, it does not allow us to choose to be alone either. Acts is not just a history book. Christ established the church—not individuals—to carry the gospel message to the nations. It is necessarily communal. Gathering, associating, and cooperating with other believers is beneficial for us but is also a testimony to others of Christ's redeeming love.
+
+Dietrich Bonhoeffer, in his work _Life Together,_ states, “Christian community means community through Jesus Christ and in Jesus Christ...It means, first, that a Christian needs others for the sake of Jesus Christ. It means, second, that a Christian comes to others only through Jesus Christ. It means, third, that from eternity we have been chosen in Jesus Christ, accepted in time, and united for eternity.” If you are a believer, you are part of a community. This community, while imperfect now, is a picture of what is to come when Christ returns. It will not be just “me and Jesus” in the new heavens and the new earth. There we will gather with people from every nation worshipping our King. By God’s grace, we have a glimpse of that community in our churches today. Some of us will go through transition times when we are not part of a specific, local body of believers, but this should be temporary. Other believers are our partners in the Great Commission, our encouragement to persevere in the faith, our reminders of God's grace and faithfulness. And we are the same for them.
