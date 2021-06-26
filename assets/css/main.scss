@@ -5,10 +5,8 @@
 
 @charset "utf-8";
 
-$body-color: #00587E;
 $link-color: #00587E;
 $masthead-link-color: #00587E;
-$background-color: #00587E;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
