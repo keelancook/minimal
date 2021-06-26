@@ -1,9 +1,6 @@
 ---
 title: "A lonely multitude: Loneliness is not a location issue, it is a heart issue"
 date: "2012-05-29"
-categories: 
-  - "discipleship"
-  - "peoples-next-door"
 tags: 
   - "church-planting"
   - "culture"

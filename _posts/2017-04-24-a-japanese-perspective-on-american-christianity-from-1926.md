@@ -1,8 +1,6 @@
 ---
 title: "A Japanese Perspective on American Christianity from 1926"
 date: "2017-04-24"
-categories: 
-  - "peoples-next-door"
 tags: 
   - "american-christianity"
   - "gospel"

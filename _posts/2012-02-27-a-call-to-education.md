@@ -1,9 +1,6 @@
 ---
 title: "A call to education"
 date: "2012-02-27"
-categories: 
-  - "discipleship"
-  - "from-the-word"
 tags: 
   - "discipleship"
   - "education"

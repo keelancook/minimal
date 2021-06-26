@@ -1,9 +1,7 @@
 ---
 title: "A Snapshot Biblical Theology of Missions"
 date: "2016-10-28"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "bible"
   - "biblical-theology"

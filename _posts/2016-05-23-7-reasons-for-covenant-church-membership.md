@@ -1,8 +1,6 @@
 ---
 title: "7 Reasons for Covenant Church Membership"
 date: "2016-05-23"
-categories: 
-  - "peoples-next-door"
 coverImage: "13ff7-5872373751_253667a41d_b.jpg"
 ---
 

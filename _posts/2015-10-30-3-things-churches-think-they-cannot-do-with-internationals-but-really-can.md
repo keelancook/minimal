@@ -1,8 +1,6 @@
 ---
 title: "3 Things Churches Think They Cannot Do with Internationals (But Really Can)"
 date: "2015-10-30"
-categories: 
-  - "peoples-next-door"
 tags: 
   - "church-planting"
   - "internationals"

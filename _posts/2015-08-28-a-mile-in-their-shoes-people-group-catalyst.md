@@ -1,8 +1,7 @@
 ---
 title: "A Mile in Their Shoes: People Group Catalyst"
 date: "2015-08-28"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "baptist"
   - "church-planting"

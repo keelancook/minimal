@@ -1,9 +1,7 @@
 ---
 title: "A Right to Secrecy"
 date: "2012-08-14"
-categories: 
-  - "discipleship"
-  - "peoples-next-door"
+
 tags: 
   - "christian-subculture"
   - "community"

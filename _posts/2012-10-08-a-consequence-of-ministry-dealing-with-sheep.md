@@ -1,8 +1,6 @@
 ---
 title: "A Consequence of Ministry: Dealing with Sheep"
 date: "2012-10-08"
-categories: 
-  - "discipleship"
 tags: 
   - "aha-moments"
   - "community"

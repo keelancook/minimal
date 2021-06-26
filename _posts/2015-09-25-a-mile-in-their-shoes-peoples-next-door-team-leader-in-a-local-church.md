@@ -1,8 +1,7 @@
 ---
 title: "A Mile in Their Shoes: Peoples Next Door team leader in a local church"
 date: "2015-09-25"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "diaspora"

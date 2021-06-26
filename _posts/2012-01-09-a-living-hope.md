@@ -1,9 +1,6 @@
 ---
 title: "A living hope"
 date: "2012-01-09"
-categories: 
-  - "discipleship"
-  - "from-the-word"
 tags: 
   - "bible-study"
   - "discipleship"

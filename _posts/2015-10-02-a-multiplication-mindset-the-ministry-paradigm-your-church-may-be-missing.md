@@ -1,8 +1,7 @@
 ---
 title: "A multiplication mindset: The ministry paradigm your church may be missing"
 date: "2015-10-02"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "missions"
