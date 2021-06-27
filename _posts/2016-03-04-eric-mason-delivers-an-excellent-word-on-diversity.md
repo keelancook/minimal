@@ -1,8 +1,7 @@
 ---
 title: "Eric Mason Delivers an Excellent Word on Diversity"
 date: "2016-03-04"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "diversity"

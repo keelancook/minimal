@@ -1,8 +1,7 @@
 ---
 title: "Encourage the Anonymous Witness"
 date: "2017-03-22"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "early-church"
   - "gospel"

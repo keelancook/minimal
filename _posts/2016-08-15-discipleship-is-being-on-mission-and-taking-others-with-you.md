@@ -1,9 +1,7 @@
 ---
 title: "Discipleship is Being on Mission and Taking Others With You"
 date: "2016-08-15"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "discipleship"
   - "jesus"

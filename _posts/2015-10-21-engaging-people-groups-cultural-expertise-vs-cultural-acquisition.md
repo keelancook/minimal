@@ -1,8 +1,7 @@
 ---
 title: "Engaging People Groups: Cultural Expertise vs. Cultural Acquisition"
 date: "2015-10-21"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "church-planting"

@@ -1,8 +1,7 @@
 ---
 title: "Does our attitude need to be changed? Thoughts after Charlottesville."
 date: "2017-08-14"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "charlottesville-protests"
   - "christian-response-to-racism"

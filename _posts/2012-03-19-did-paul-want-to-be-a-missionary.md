@@ -1,9 +1,7 @@
 ---
 title: "Did Paul want to be a missionary?"
 date: "2012-03-19"
-categories: 
-  - "discipleship"
-  - "from-the-word"
+
 tags: 
   - "bible-study"
   - "calling"

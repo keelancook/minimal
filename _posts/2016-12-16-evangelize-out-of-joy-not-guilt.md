@@ -1,9 +1,7 @@
 ---
 title: "Evangelize out of Joy, not Guilt"
 date: "2016-12-16"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "evangelism"

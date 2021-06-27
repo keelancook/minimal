@@ -1,8 +1,7 @@
 ---
 title: "Does your church still have an apostolic passion?"
 date: "2018-07-18"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "apostolic-ministry"
   - "church-planting"

@@ -1,8 +1,7 @@
 ---
 title: "Culture is like an iceberg, and that affects your ministry"
 date: "2015-10-12"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "culture"

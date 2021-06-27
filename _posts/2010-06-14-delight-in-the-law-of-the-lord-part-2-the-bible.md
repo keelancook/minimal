@@ -1,10 +1,7 @@
 ---
 title: "Delight in the Law of the Lord: Part 2 – The Bible"
 date: "2010-06-14"
-categories: 
-  - "discipleship"
-  - "from-africa"
-  - "hermeneutics"
+
 tags: 
   - "bible-study"
   - "discipleship"

@@ -1,9 +1,7 @@
 ---
 title: "Download the Free Strategy Guide for Your Local Church"
 date: "2016-06-24"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 coverImage: "8114d-screen-shot-2016-06-24-at-8.43.55-am.png"
 ---
 

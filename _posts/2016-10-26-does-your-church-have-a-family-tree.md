@@ -1,8 +1,7 @@
 ---
 title: "Does your church have a family tree?"
 date: "2016-10-26"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-family-tree"
   - "missions"

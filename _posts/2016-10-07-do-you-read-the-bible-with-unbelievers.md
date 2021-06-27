@@ -1,9 +1,7 @@
 ---
 title: "Do You Read the Bible With Unbelievers?"
 date: "2016-10-07"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "bible"
   - "bible-study"

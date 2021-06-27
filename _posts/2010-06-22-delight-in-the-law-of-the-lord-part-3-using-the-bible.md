@@ -1,10 +1,7 @@
 ---
 title: "Delight in the Law of the Lord: Part 3 - Using the Bible"
 date: "2010-06-22"
-categories: 
-  - "discipleship"
-  - "from-africa"
-  - "hermeneutics"
+
 tags: 
   - "bible-study"
   - "discipleship"

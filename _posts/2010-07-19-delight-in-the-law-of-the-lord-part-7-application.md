@@ -1,10 +1,7 @@
 ---
 title: "Delight in the Law of the Lord: Part 7 – Application"
 date: "2010-07-19"
-categories: 
-  - "discipleship"
-  - "from-africa"
-  - "hermeneutics"
+
 tags: 
   - "bible-study"
   - "culture"

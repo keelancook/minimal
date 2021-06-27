@@ -1,9 +1,7 @@
 ---
 title: "Culture: Palace or Prison?"
 date: "2016-10-03"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "contextualization"
   - "culture"
