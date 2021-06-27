@@ -1,9 +1,7 @@
 ---
 title: "How to Deal With a World Full of Evil"
 date: "2016-07-08"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 coverImage: "4e461-black_lives_matter_black_friday_15927328135.jpg"
 ---
 

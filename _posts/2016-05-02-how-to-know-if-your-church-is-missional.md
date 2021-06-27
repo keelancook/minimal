@@ -1,8 +1,7 @@
 ---
 title: "How to Know if Your Church is Missional"
 date: "2016-05-02"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "evangelism"

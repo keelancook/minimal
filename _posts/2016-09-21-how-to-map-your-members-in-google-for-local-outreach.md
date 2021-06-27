@@ -1,9 +1,7 @@
 ---
 title: "How to Map Your Members in Google for Local Outreach"
 date: "2016-09-21"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "google"

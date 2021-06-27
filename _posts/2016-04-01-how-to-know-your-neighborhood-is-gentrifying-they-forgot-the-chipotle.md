@@ -1,8 +1,7 @@
 ---
 title: "How to know your neighborhood is gentrifying. (They forgot the Chipotle.)"
 date: "2016-04-01"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "gentrification"

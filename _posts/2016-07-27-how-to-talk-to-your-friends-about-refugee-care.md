@@ -1,9 +1,7 @@
 ---
 title: "How To Talk To Your Friends About Refugee Care"
 date: "2016-07-27"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 coverImage: "6d1b9-photo-1442570356633-6f94cdd73a48.jpg"
 ---
 

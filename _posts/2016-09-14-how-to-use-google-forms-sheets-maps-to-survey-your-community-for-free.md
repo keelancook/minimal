@@ -1,8 +1,7 @@
 ---
 title: "How to Use Google Forms, Sheets, & Maps to Survey Your Community (For Free)"
 date: "2016-09-14"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "engagement"

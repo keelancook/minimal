@@ -1,9 +1,7 @@
 ---
 title: "How to Share the Gospel: A Quick Word on Narratives and Themes"
 date: "2016-08-22"
-categories: 
-  - "digest"
-  - "peoples-next-door"
+
 tags: 
   - "evangelism"
   - "gods-story"

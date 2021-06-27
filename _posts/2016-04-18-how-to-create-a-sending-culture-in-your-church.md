@@ -1,8 +1,7 @@
 ---
 title: "How to Create a Sending Culture in Your Church."
 date: "2016-04-18"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church-planting"
   - "local-church"

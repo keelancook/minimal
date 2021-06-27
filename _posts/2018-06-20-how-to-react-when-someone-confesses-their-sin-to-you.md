@@ -1,8 +1,7 @@
 ---
 title: "How to react when someone confesses their sin to you"
 date: "2018-06-20"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "confession"

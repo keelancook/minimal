@@ -1,8 +1,7 @@
 ---
 title: "How to Survive the Church as an Introvert"
 date: "2016-01-04"
-categories: 
-  - "peoples-next-door"
+
 tags: 
   - "church"
   - "community"
