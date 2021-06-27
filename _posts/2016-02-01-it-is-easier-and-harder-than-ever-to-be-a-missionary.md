@@ -1,7 +1,7 @@
 ---
 title: "It is Easier and Harder Than Ever to Be a Missionary"
 date: "2016-02-01"
-"
+
 tags: 
   - "gospel-access"
   - "great-commission"
