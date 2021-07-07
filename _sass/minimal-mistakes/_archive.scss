@@ -39,7 +39,7 @@
     border-bottom: 1px solid $border-color;
   
     + .list__item .archive__item-title {
-      margin-top: 5em;
+      margin-top: 0.5em;
     }
   }
   
@@ -86,7 +86,7 @@
   }
   
   .archive__item-teaser {
-    position: relative;
+    position: absolute;
     border-radius: $border-radius;
     overflow: hidden;
     margin-bottom: -1em;
