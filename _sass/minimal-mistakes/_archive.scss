@@ -39,7 +39,7 @@
     border-bottom: 1px solid $border-color;
   
     + .list__item .archive__item-title {
-      margin-top: 0em;
+      margin-top: 0.5em;
     }
   }
   
@@ -67,7 +67,7 @@
   /* remove border*/
   .page__content {
     .archive__item-title {
-      margin-top: 1em;
+      margin-top: 0em;
       border-bottom: none;
     }
   }
@@ -89,6 +89,7 @@
     position: relative;
     border-radius: $border-radius;
     overflow: hidden;
+    margin-bottom: 0em
   
     img {
       width: 100%;
