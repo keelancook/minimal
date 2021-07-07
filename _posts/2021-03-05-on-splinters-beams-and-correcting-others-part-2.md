@@ -3,6 +3,9 @@ title: "Handle with Care: Christian Conflict on Social Media"
 date: "2021-03-05"
 
 coverImage: "ravi-sharma-rnw1tavzqm8-unsplash.jpg"
+
+header:
+  teaser: /assets/images/teaser-image.png
 ---
 
 _This article is the second in a two-part series on Christ's command in Matthew 7:1-5. In this artile, we provide a specific application of this command. This first article provides necessary background and proper interpretation for the passage. You can read it here: [Link to the first Article](https://keelancook.com/?p=4486)._
