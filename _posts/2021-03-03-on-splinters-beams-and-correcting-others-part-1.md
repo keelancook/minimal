@@ -3,6 +3,9 @@ title: "On Splinters, Beams, and Correcting Others"
 date: "2021-03-03"
 
 coverImage: "benjamin-finley-epujmgnm2aa-unsplash.jpg"
+
+header:
+  teaser: /assets/images/teaser-image.png
 ---
 
 > Do not judge, so that you won’t be judged.

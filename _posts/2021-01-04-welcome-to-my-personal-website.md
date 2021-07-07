@@ -1,6 +1,10 @@
 ---
 title: Welcome to my personal website!
 date: 2021-06-23
+
+header:
+  teaser: /assets/images/teaser-image.png
+
 ---
 
 Hey there! You’ve stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](http://keelancook.com). 
