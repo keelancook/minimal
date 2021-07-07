@@ -67,7 +67,7 @@
   /* remove border*/
   .page__content {
     .archive__item-title {
-      margin-top: 0em;
+      margin-top: 1em;
       border-bottom: none;
     }
   }
@@ -89,7 +89,7 @@
     position: relative;
     border-radius: $border-radius;
     overflow: hidden;
-    margin-bottom: 0em
+    margin-bottom: 0;
   
     img {
       width: 100%;
