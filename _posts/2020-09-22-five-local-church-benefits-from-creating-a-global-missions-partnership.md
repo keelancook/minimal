@@ -6,6 +6,11 @@ tags:
   - "global-missions"
   - "international-missions"
   - "missions"
+
+header:
+  teaser: /assets/images/church-benefits-global-partnerships.jpg
+  image: /assets/images/church-benefits-global-partnerships.jpg
+
 coverImage: "sven-scheuermeier-zu1smmhdoni-unsplash.jpg"
 ---
 

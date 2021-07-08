@@ -7,7 +7,11 @@ tags:
   - "gospel"
   - "hope"
   - "suffering"
-coverImage: "201fc-faris-mohammed-nygvn45dohg-unsplash-scaled-1.jpg"
+
+header:
+  teaser: /assets/images/201fc-faris-mohammed-nygvn45dohg-unsplash-scaled-1.jpg
+  image: /assets/images/201fc-faris-mohammed-nygvn45dohg-unsplash-scaled-1.jpg
+
 ---
 
 I've been thinking a lot about suffering lately, mostly because current events surrounding COVID-19 seem to have brought suffering to the forefront of the news even moreso than usual.

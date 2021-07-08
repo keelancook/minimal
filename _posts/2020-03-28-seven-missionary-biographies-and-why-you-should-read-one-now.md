@@ -5,7 +5,11 @@ date: "2020-03-28"
 tags: 
   - "good-books"
   - "missions-history"
-coverImage: "938e8-chris-lawton-9t346ij4kgk-unsplash-scaled-1.jpg"
+
+header:
+  teaser: /assets/images/938e8-chris-lawton-9t346ij4kgk-unsplash-scaled-1.jpg
+  image: /assets/images/938e8-chris-lawton-9t346ij4kgk-unsplash-scaled-1.jpg
+
 ---
 
 Over the last two weeks, I've seen all kinds of posts recommending book lists for people to consider during our global shut-in. I even wrote one last week suggesting you use this time [to sharpen your Bible study skills](https://blog.keelancook.com/2020/03/now-is-the-time-to-do-that-bible-study-free-resources.html). But the one thing I've not seen recommended yet are missionary biographies. I'm honestly surprised by this omission.

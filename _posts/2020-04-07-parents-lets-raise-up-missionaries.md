@@ -4,7 +4,11 @@ date: "2020-04-07"
 
 tags: 
   - "missions"
-coverImage: "6023f-priscilla-du-preez-mcxesld2su-unsplash-scaled-1.jpg"
+
+header:
+  teaser: /assets/images/6023f-priscilla-du-preez-mcxesld2su-unsplash-scaled-1.jpg
+  image: /assets/images/6023f-priscilla-du-preez-mcxesld2su-unsplash-scaled-1.jpg
+
 ---
 
 It's funny how much being a parent changes your perspective on things. Everyone tells you it will, and you believe them. Then it happens, and you are still amazed at the difference it makes.

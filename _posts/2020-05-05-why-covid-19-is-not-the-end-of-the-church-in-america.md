@@ -7,7 +7,10 @@ tags:
   - "covid19"
   - "pastoring"
   - "witness"
-coverImage: "e16b4-debby-hudson-sgdybq6kheq-unsplash-scaled-1.jpg"
+
+header:
+  teaser: /assets/images/e16b4-debby-hudson-sgdybq6kheq-unsplash-scaled-1.jpg
+  image: /assets/images/e16b4-debby-hudson-sgdybq6kheq-unsplash-scaled-1.jpg
 ---
 
 I've read a lot of articles about pandemic and local church ministry at this point. I've probably read too many and imagine you have, too.
