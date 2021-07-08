@@ -8,8 +8,8 @@ tags:
   - "missions"
 
 header:
-  teaser: /assets/images/church-benefits-global-partnerships.jpg
-  image: /assets/images/church-benefits-global-partnerships.jpg
+  teaser: /assets/images/church-benefits-global-partnership.jpg
+  image: /assets/images/church-benefits-global-partnership.jpg
 
 coverImage: "sven-scheuermeier-zu1smmhdoni-unsplash.jpg"
 ---
