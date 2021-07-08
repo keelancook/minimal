@@ -1,7 +1,7 @@
 ---
 title: "Handle with Care: Christian Conflict on Social Media"
 date: "2021-03-05"
-tags: test
+
 coverImage: "ravi-sharma-rnw1tavzqm8-unsplash.jpg"
 
 header:
