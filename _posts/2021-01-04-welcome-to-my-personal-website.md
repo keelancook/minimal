@@ -4,6 +4,7 @@ date: 2021-06-23
 
 header:
   teaser: /assets/images/teaser-image.png
+  image: /assets/images/teaser-image.png
 
 ---
 

@@ -5,7 +5,8 @@ date: "2021-03-03"
 coverImage: "benjamin-finley-epujmgnm2aa-unsplash.jpg"
 
 header:
-  teaser: /assets/images/teaser-image.png
+  teaser: /assets/images/splinters-beams.jpg
+  image: /assets/images/splinters-beams.jpg
 ---
 
 > Do not judge, so that you won’t be judged.

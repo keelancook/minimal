@@ -7,6 +7,10 @@ tags:
   - "international-missions"
   - "missions"
 coverImage: "engin-akyurt-t1ivqlyqe5e-unsplash.jpg"
+
+header:
+  teaser: /assets/images/missions-partnership.jpg
+  image: /assets/images/missions-partnership.jpg
 ---
 
 _In my last article, I covered several important benefits for a local church entering into a global missions partnership with a missionary team overseas. [Feel free to start there if you'd like](https://keelancook.com/2020/09/22/five-local-church-benefits-from-creating-a-global-missions-partnership/(opens in a new tab))._
