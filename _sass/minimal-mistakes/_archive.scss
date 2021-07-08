@@ -89,6 +89,8 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: -2em;
 
   img {
     width: 100%;
@@ -226,6 +228,7 @@
   .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 200px;
+      margin-bottom: 0;
     }
 
     @include breakpoint($medium) {
