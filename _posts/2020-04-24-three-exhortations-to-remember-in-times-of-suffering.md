@@ -9,8 +9,8 @@ tags:
   - "suffering"
 
 header:
-  teaser: /assets/images/201fc-faris-mohammed-nygvn45dohg-unsplash-scaled-1.jpg
-  image: /assets/images/201fc-faris-mohammed-nygvn45dohg-unsplash-scaled-1.jpg
+  teaser: /assets/images/times-of-suffering.jpg
+  image: /assets/images/times-of-suffering.jpg
 
 ---
 

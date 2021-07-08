@@ -7,6 +7,11 @@ tags:
   - "missions"
   - "pathways"
   - "sending"
+
+header: 
+  image: /assets/images/ 
+  teaser: /assets/images/ 
+
 coverImage: "90e57-chris-leipelt-iyojocqotbg-unsplash-scaled-1.jpg"
 ---
 

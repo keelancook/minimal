@@ -10,8 +10,8 @@ tags:
   - "metrics"
 
 header:
-  teaser: /assets/images/9116f-joshua-hanson-ebixzj0j5d8-unsplash-scaled-1.jpg
-  image: /assets/images/9116f-joshua-hanson-ebixzj0j5d8-unsplash-scaled-1.jpg
+  teaser: /assets/images/online-worship-views.jpg
+  image: /assets/images/9online-worship-views.jpg
 ---
 
 Over the last two months, I've watched a scene unfold more than once. As the reality set in for pastors and church leaders concerning the ramifications of this pandemic, an initial concern followed. Many churches that were already plateaued or declining in regular attendance suddenly faced the need to forego in-person weekly corporate worship services.

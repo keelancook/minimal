@@ -6,8 +6,8 @@ tags:
   - "missions"
 
 header:
-  teaser: /assets/images/6023f-priscilla-du-preez-mcxesld2su-unsplash-scaled-1.jpg
-  image: /assets/images/6023f-priscilla-du-preez-mcxesld2su-unsplash-scaled-1.jpg
+  teaser: /assets/images/raise-missionaries.jpg
+  image: /assets/images/raise-missionaries.jpg
 
 ---
 

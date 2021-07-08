@@ -2,6 +2,12 @@
 title: "Now Is the Time to do that Bible Study (Free Resources)"
 date: "2020-03-25"
 
+header:
+    teaser: /assets/images/bible-study.jpg
+    image: /assets/images/bible-study.jpg
+
+
+
 coverImage: "cf98e-aaron-burden-h8s0pf2rcqs-unsplash-scaled-1.jpg"
 ---
 

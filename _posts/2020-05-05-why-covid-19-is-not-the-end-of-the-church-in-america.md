@@ -9,8 +9,8 @@ tags:
   - "witness"
 
 header:
-  teaser: /assets/images/e16b4-debby-hudson-sgdybq6kheq-unsplash-scaled-1.jpg
-  image: /assets/images/e16b4-debby-hudson-sgdybq6kheq-unsplash-scaled-1.jpg
+  teaser: /assets/images/covid-church-america.jpg
+  image: /assets/images/covid-church-america.jpg
 ---
 
 I've read a lot of articles about pandemic and local church ministry at this point. I've probably read too many and imagine you have, too.

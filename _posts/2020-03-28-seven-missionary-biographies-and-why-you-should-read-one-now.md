@@ -7,8 +7,8 @@ tags:
   - "missions-history"
 
 header:
-  teaser: /assets/images/938e8-chris-lawton-9t346ij4kgk-unsplash-scaled-1.jpg
-  image: /assets/images/938e8-chris-lawton-9t346ij4kgk-unsplash-scaled-1.jpg
+  teaser: /assets/images/missionary-biographies.jpg
+  image: /assets/images/missionary-biographies.jpg
 
 ---
 
