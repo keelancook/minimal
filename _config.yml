@@ -101,7 +101,7 @@ defaults:
       comments: false
       share: true
       related: true
-    teaser: /assets/images/teaser-image.png
+      teaser: /assets/images/teaser-image.png
   # _pages
   - scope:
       path: "_pages"
