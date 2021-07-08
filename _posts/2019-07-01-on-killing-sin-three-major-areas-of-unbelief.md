@@ -9,8 +9,8 @@ tags:
   - "unbelief"
 
 header:
-  image: /assets/images/killing-sin.jog
-  teaser: /assets/images/killingsin-jpg
+  image: /assets/images/killing-sin.jpg
+  teaser: /assets/images/killing-sin.jpg
 
 coverImage: "9a47c-priscilla-du-preez-rx9mukj_fbq-unsplash.jpg"
 ---
