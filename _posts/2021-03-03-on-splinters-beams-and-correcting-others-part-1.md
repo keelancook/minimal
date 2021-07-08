@@ -1,7 +1,7 @@
 ---
 title: "On Splinters, Beams, and Correcting Others"
 date: "2021-03-03"
-
+tags: test
 coverImage: "benjamin-finley-epujmgnm2aa-unsplash.jpg"
 
 header:

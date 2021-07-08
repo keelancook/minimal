@@ -1,7 +1,7 @@
 ---
 title: "Four Questions to Guide Creating a Global Missions Partnership"
 date: "2020-09-25"
-
+tags: test
 tags: 
   - "global-missions"
   - "international-missions"
