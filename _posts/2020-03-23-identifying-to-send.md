@@ -9,8 +9,8 @@ tags:
   - "sending"
 
 header: 
-  image: /assets/images/ 
-  teaser: /assets/images/ 
+  image: /assets/images/identify-to-send.jpg
+  teaser: /assets/images/identify-to-send.jpg
 
 coverImage: "90e57-chris-leipelt-iyojocqotbg-unsplash-scaled-1.jpg"
 ---

@@ -7,6 +7,11 @@ tags:
   - "gospel"
   - "sin"
   - "unbelief"
+
+header:
+  image: /assets/images/killing-sin.jog
+  teaser: /assets/images/killingsin-jpg
+
 coverImage: "9a47c-priscilla-du-preez-rx9mukj_fbq-unsplash.jpg"
 ---
 

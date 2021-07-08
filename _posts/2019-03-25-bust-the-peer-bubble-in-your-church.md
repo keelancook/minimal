@@ -5,6 +5,11 @@ date: "2019-03-25"
 tags: 
   - "church-ministry"
   - "generational-conflict-in-church"
+
+header:
+  image: /assets/images/peer-bubble.jpg
+  teaser: /assets/images/peer-bubble.jpg
+
 coverImage: "35dc5-photo-1504126975125-19a8d92c72a0.jpeg"
 ---
 
