@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Keelan Cook"
-  avatar : "/assets/images/keelan-headshot.jpg"
+  avatar : "/assets/images/headshots/keelan-headshot.jpg"
   bio    : "Keelan Cook is an Associate Director with the Union Baptist Association in Houston, TX and serves as an instructor of North American missiology at Southeastern Baptist Theological Seminary."
   links:
     - label: "Website"
