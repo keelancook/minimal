@@ -8,7 +8,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign posts = paginator.posts %}
-<section class="taxonomy__section">>
+<section class="taxonomy__section">
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
