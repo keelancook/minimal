@@ -1,6 +1,7 @@
 ---
 title: "Why do we need to confess our sin to others?"
 date: "2018-05-23"
+author: Meredith Cook
 
 tags: 
   - "confessing-to-others"

@@ -1,6 +1,7 @@
 ---
 title: "Three Exhortations to Remember in Times of Suffering"
 date: "2020-04-24"
+author: Meredith Cook
 
 tags: 
   - "encouragement"

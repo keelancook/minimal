@@ -1,6 +1,7 @@
 ---
 title: "Contextualization Can Be Risky Business"
 date: "2017-05-30"
+author: Meredith Cook
 
 coverImage: "2798a-doug-linstedt-135670.jpg"
 ---

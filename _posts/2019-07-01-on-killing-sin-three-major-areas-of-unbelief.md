@@ -1,6 +1,7 @@
 ---
 title: "On Killing Sin: Three Major Areas of Unbelief"
 date: "2019-07-01"
+author: Meredith Cook
 
 tags: 
   - "christian-living"

@@ -1,6 +1,7 @@
 ---
 title: "Three Misunderstandings about the Church that Muddle the Mission"
 date: "2018-02-08"
+author: Meredith Cook
 
 tags: 
   - "church-misunderstandings"

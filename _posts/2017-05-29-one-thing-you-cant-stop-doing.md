@@ -1,6 +1,7 @@
 ---
 title: "One Thing You Can't Stop Doing When You Share the Gospel"
 date: "2017-05-29"
+author: Meredith Cook
 
 coverImage: "c8b25-sharon-christina-rorvik-180698.jpg"
 ---

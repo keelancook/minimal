@@ -1,6 +1,7 @@
 ---
 title: "Bust the Peer Bubble in Your Church"
 date: "2019-03-25"
+author: Meredith Cook
 
 tags: 
   - "church-ministry"
