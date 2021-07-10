@@ -1,7 +1,11 @@
 ---
 title: "7 Reasons for Covenant Church Membership"
 date: "2016-05-23"
+author: Trevor King
+
 coverImage: "13ff7-5872373751_253667a41d_b.jpg"
+
+
 ---
 
 In Ephesians, Paul writes, “So then you are no longer foreigners and strangers, but fellow citizens with the saints, and _members of God’s household_, built upon the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone,” (Ephesians 2:19-20). In the next chapter he goes on: “This is so that God’s multifaceted wisdom may now be made known _through the church_ to the rulers and authorities in the heavens,” (Ephesians 3:10). We’re not foreigners, but family. We’re not united around demographics, but around Christ Himself. We’re not idle, but making known the Wisdom of God to the world.
