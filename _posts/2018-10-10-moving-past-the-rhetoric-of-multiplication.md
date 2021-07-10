@@ -5,6 +5,11 @@ date: "2018-10-10"
 tags: 
   - "church-planting"
 coverImage: "b7300-adorable-animals-bricks-841263.jpg"
+
+header: 
+  image: /assets/images/multiplication-bunnies.jpg
+  teaser: /assets/images/multiplication-bunnies.jpg
+
 ---
 
 "We need more planters."

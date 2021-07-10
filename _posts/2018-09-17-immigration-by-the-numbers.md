@@ -6,6 +6,10 @@ tags:
   - "immigration"
   - "multi-ethnic-church"
 coverImage: "12e06-elias-castillo-658736-unsplash.jpg"
+
+header: 
+  image: /assets/images/immigration-numbers.jpg
+  teaser: /assets/images/immigration-numbers.jpg
 ---
 
 I like to keep everyone that frequents this website as up-to-date as possible on research pertaining to immigration in the United States. In my estimation, the startling rise of immigration over the last several decades presents one of the most significant occasions for missions in North America.

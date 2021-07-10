@@ -7,7 +7,13 @@ tags:
   - "how-to-deal-with-trolls"
   - "outrage-culture"
   - "social-media"
+
 coverImage: "a9d9b-timothy-eberly-515801-unsplash.jpg"
+
+header:
+  image: /assets/images/outrage-culture.jpg
+  teaser: /assets/images/outrage-culture.jpg
+
 ---
 
 When it is your job to spend a lot of time on the internet, you inevitably step on a few landmines. Every now and then, I will be reading an article about some social or cultural issue and get to the bottom of the article, and there it is... the comment section.

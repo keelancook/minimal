@@ -9,7 +9,12 @@ tags:
   - "how-to-confess-to-others"
   - "sin"
   - "why-to-confess-to-others"
+
 coverImage: "3ad79-felix-russell-saw-113844-unsplash.jpg"
+header:
+  image: /assets/images/why-confess-sin.jpg
+  teaser: /assets/images/why-confess-sin.jpg
+
 ---
 
 I recently finished reading [_If You Only Knew: My Unlikely, Unavoidable Story of Becoming Free_](https://amzn.to/3aqHlGu). You can [read my review of it here](https://www.lifeway.com/pastors/2018/05/17/if-you-only-knew-by-jamie-ivey-book-review/) but suffice it to say that it's a good book and you should read it. One thing about the book that has stayed with me is the idea of confessing sin to other believers. This is something I've pondered over the last couple of years.

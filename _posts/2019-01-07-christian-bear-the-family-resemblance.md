@@ -3,6 +3,11 @@ title: "Christian, Bear the Family Resemblance"
 date: "2019-01-07"
 
 coverImage: "763a2-laurenz-kleinheider-426386-unsplash.jpg"
+
+header: 
+    image: /assets/images/family-resemblance.jpg
+    teaser: /assets/images/family-resemblance.jpg
+
 ---
 
 Love your enemies.

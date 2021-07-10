@@ -7,7 +7,13 @@ tags:
   - "confession"
   - "pastoral-ministry"
   - "sin"
+
 coverImage: "4f457-joshua-sazon-373580-unsplash.jpg"
+
+header:
+  image: /assets/images/confess-sin.jpg
+  teaser: /assets/images/confess-sin.jpg
+
 ---
 
 Recently, I wrote about [why I think it's important to confess our sins to fellow believers](http://blog.keelancook.com/2018/05/why-do-we-need-to-confess-our-sin-to-others.html). In that piece, I only considered one side of that paradigm: that of the confessor. But there is a second piece that is equally important: What is an appropriate response when someone confesses their sin to us?

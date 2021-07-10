@@ -7,7 +7,13 @@ tags:
   - "culture"
   - "gospel"
   - "love-your-enemies"
+
 coverImage: "99050-jerry-kiesewetter-195442-unsplash-e1534349712265.jpg"
+
+header: 
+  image: /assets/images/better-than-this.jpg
+   teaser: /assets/images/better-than-this.jpg
+
 ---
 
 If there was any question about whether or not Jesus' kingdom ethic is counter-cultural, the Sermon on the Mount should remove those doubts. Jesus is speaking to his disciples about what it means to live as a citizen of a different kingdom. He repeatedly reminds his listeners of the conventional wisdom of their day. He starts his commands with "you have heard that it was said." So familiar is this phrase to most Christians, that we may be tempted to overlook what he is doing here. Jesus lays the wisdom of the world, the norms of their sin-twisted culture, on the table, "you have heard that it was said." Then he launches a second volley. Every time, he begins his next sentence with the words, "but I tell you."

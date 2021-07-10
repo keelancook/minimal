@@ -7,7 +7,13 @@ tags:
   - "church-planting"
   - "how-to-reach-a-city"
   - "local-missions"
+
 coverImage: "cebe3-n-120570-unsplash.jpg"
+
+header:
+  image: /assets/images/apostolic-passion.jpg
+  teaser: /assets/images/apostolic-passion.jpg
+
 ---
 
 Is it just me, or does it seem like church leaders are always trying to get their congregation excited about something? Sometimes it is a new sermon series, or a new initiative. Often, it is a building project or a new ministry the church plans to start or support. Regardless, I'm willing to wager, there is always something your church leadership wants you to get jazzed about.
