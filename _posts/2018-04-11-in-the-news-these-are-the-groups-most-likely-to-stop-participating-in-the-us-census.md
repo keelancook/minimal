@@ -8,7 +8,13 @@ tags:
   - "missions"
   - "people-blindness"
   - "us-census"
+
 coverImage: "439cf-wellington-rodrigues-574968-unsplash-e1523462997477.jpg"
+
+header:
+  image: /assets/images/stop-census.jpg
+  teaser: /assets/images/stop-census.jpg
+
 ---
 
 The Brookings Institute recently ran an article titled, "[These are the groups most likely to stop participating in the US census](https://www.brookings.edu/blog/the-avenue/2018/04/06/these-are-the-groups-most-likely-to-stop-participating-in-the-us-census/)," in which they parse out some of the significant consequences of a recent ruling concerning the upcoming 2020 US census.

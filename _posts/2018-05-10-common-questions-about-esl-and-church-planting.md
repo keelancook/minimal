@@ -7,7 +7,13 @@ tags:
   - "esl"
   - "missions"
   - "teaching-english"
+
 coverImage: "bb944-element5-digital-352043-unsplash-e1525973469506.jpg"
+
+header:
+  image: /assets/images/esl-questions.jpg
+  teaser: /assets/images/esl-questions.jpg
+
 ---
 
 This week, I received an email I wanted to share concerning ESL ministries in local churches. The email was in response to an article I wrote a while back entitled [Turn Your ESL Ministry into a Church Planting Machine](http://blog.keelancook.com/2015/12/turn-your-esl-ministry-into-a-church-planting-machine.html). For their part, a local church here in Texas is working hard to come up with an ESL ministry that both teaches English well and provides a legitimate gospel encounter for the students involved. In preparing, they stumbled across my article, and asked some great questions in response. The questions were so good, I wanted to share them (and my response) here for everyone. If your church currently uses ESL as a ministry strategy or is considering ESL, make sure and read that first article, and come back here for the additional dialogue. **Here’s the initial email:**

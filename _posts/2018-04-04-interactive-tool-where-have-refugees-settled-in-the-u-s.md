@@ -9,7 +9,13 @@ tags:
   - "refugee-resettlement"
   - "refugees"
   - "where-are-the-refugees"
+
 coverImage: "bdc2a-igor-ovsyannykov-427217-unsplash.jpg"
+
+header:
+  image: /assets/images/interactive-refugees-settled.jpg
+  teaser: /assets/images/interactive-refugees-settled.jpg
+
 ---
 
 This is a few months old at this point, but I realized I had never made people aware of it through this site. Back in November, the Pew Research Center released a great tool concerning refugees in the United States. The tool is completely interactive and provides both a map animation and a workable table broken down by state for each year from 2002 until 2017.

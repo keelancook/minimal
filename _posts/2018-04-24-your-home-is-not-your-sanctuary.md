@@ -8,7 +8,13 @@ tags:
   - "hospitality"
   - "missions"
   - "using-our-homes-for-missions"
+
 coverImage: "a064b-daniil-silantev-574966-unsplash.jpg"
+
+header:
+  image: /assets/images/home-sanctuary.jpg
+  teaser: /assets/images/home-sanctuary.jpg
+
 ---
 
 Christian, your home is not your sanctuary.

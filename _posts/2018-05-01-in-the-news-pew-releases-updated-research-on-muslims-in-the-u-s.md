@@ -7,7 +7,13 @@ tags:
   - "muslim-immigration"
   - "muslims-and-the-great-commission"
   - "pew-research"
+
 coverImage: "1ccbf-deddy-yoga-pratama-524477-unsplash.jpg"
+
+header:
+  image: /assets/images/muslim-research.jpg
+  teaser: /assets/images/muslim-research.jpg
+
 ---
 
 Pew Research has released their newest report on Muslims in the United States, and it's worth a read if you are concerned about sharing the gospel and making new disciples among our Muslim-background communities in the United States.
