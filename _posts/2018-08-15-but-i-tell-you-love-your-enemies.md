@@ -1,5 +1,5 @@
 ---
-title: "\"But I tell you, love your enemies...\""
+title: "But I tell you, love your enemies..."
 date: "2018-08-15"
 
 tags: 
@@ -12,7 +12,7 @@ coverImage: "99050-jerry-kiesewetter-195442-unsplash-e1534349712265.jpg"
 
 header: 
   image: /assets/images/better-than-this.jpg
-   teaser: /assets/images/better-than-this.jpg
+  teaser: /assets/images/better-than-this.jpg
 
 ---
 
