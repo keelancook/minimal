@@ -12,10 +12,5 @@ $mastodon-color:#00587E;
 /*--Button Colors--*/
 $primary-color: #00587E;
 
-/*--change logo size in Masthead--*/
-.site-logo img {
-  max-height: 5rem;
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
