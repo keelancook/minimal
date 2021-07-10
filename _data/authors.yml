@@ -16,11 +16,11 @@ Meredith Cook:
 Trevor King:
   name        : "Trevor King"
   bio         : "Trevor is a doctoral candidate studying emotional intelligence and leadership. He serves as the Registrar at Southeastern Baptist Theological Seminary in Wake Forest, NC. He holds a Bachelor's degree in Christian Education from Mid-America Christian University and a Master's degree in Christian Studies from Southeastern Baptist Theological Seminary. He also serves as a pastor of Imago Dei Church in Raleigh, NC. Trevor and his wife, Ashley, raise their daughter in Wake Forest."
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/trevor-headshot.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tking@sebts.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "https://twitter.com/notkennyrogers"
