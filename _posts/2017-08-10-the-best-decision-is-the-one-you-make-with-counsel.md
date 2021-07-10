@@ -1,7 +1,7 @@
 ---
 title: "The Best Decision is the One You Make With Counsel"
 date: "2017-08-10"
-author: Meredith
+author: Meredith Cook
 
 tags: 
   - "christian-counsel"
