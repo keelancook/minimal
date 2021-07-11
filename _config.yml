@@ -69,25 +69,25 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://keelancook.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/keelancook"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/keelancook"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon-square"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@keelan"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@keelan"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/keelancook"
 
  
