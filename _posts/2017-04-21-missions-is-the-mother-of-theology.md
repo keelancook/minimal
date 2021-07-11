@@ -9,7 +9,13 @@ tags:
   - "gospel"
   - "missions"
   - "theology"
+
 coverImage: "24047-dan-edwards-38003.jpg"
+
+header:
+  image: /assets/images/missions-mother-theology.jpg
+  teaser: /assets/images/missions-mother-theology.jpg
+
 ---
 
 I did not come up with this headline, a guy by the name of Martin Kähler did. Kähler was a theologian himself, from Germany, and was making a very important point when he penned these words. In fact, it is significant enough that it bears repeating.

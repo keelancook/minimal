@@ -9,7 +9,13 @@ tags:
   - "mapping"
   - "ministry"
   - "missions"
+
 coverImage: "e84d6-photo-1461183479101-6c14cd5299c4.jpg"
+
+header:
+  image: /assets/images/google-member-map.jpg
+  teaser: /assets/images/google-member-map.jpg
+
 ---
 
 Last week, I shared [a simple method for using Google's free services for neighborhood discovery](http://blog.keelancook.com/2016/09/how-to-use-google-forms-sheets-maps-to-survey-your-community-for-free.html). Today, I want to extend that idea to the next level. Many churches never consider mapping out their own membership, but they should.

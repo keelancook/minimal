@@ -10,7 +10,13 @@ tags:
   - "people-group-discovery"
   - "people-groups"
   - "peoples-next-door"
+
 coverImage: "91727-edlhctzrr0yfftu0bqar_sylwiabartyzel_themap.jpg"
+
+header:
+  image: /assets/images/google-community-mapping.jpg
+  teaser: /assets/images/google-community-mapping.jpg
+
 ---
 
 Every church needs to know the community around them. Many churches today knew their community at one time, but things change. When it comes to communities here in the US, that transition has happened quickly and everywhere.

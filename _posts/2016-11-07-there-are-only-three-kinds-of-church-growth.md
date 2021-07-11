@@ -9,7 +9,13 @@ tags:
   - "evangelism"
   - "ministry"
   - "missions"
+
 coverImage: "91d4a-main_auditorium_first_baptist_church_jacksonville.jpg"
+
+header:
+  image: /assets/images/three-kinds-growth.jpg
+  teaser: /assets/images/three-kinds-growth.jpg
+
 ---
 
 _Back in 1970, Donald McGavran published a book that has since become one of the most influential books in Christian missions. The book is called_ [Understanding Church Growth](https://amzn.to/2xnyEyc)_. For the vast majority of people reading this article (assuming I have my normal audience), you have probably never heard of McGavran or his book. No worries; that will not affect you one bit concerning this article. That said, there will be a sliver of you who have heard of him, and you will fall into two camps. My devout missiologist friends will laud the fact that I am referencing the work. The rest of you probably think of "church growth" as a dirty word. After all, it was the church growth movement that resulted in the terrible reliance on consumerist practices and church marketing instead of the gospel and discipleship... right? Regardless of your stance on McGavran, suspend your judgment for 900 more words and overlook the excesses brought about by some who teased out (correctly or incorrectly) his implications in North America. There is, in fact, much we need to learn (or perhaps relearn) from his work._

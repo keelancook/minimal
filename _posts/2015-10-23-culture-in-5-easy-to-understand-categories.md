@@ -1,5 +1,5 @@
 ---
-title: "Culture in 5 easy-to-understand categories"
+title: "Culture in 5 Easy-to-Understand Categories"
 date: "2015-10-23"
 
 tags: 
@@ -8,7 +8,13 @@ tags:
   - "culture"
   - "missions"
   - "peoples-next-door"
+
 coverImage: "477d1-photo-1463319611694-4bf9eb5a6e72.jpg"
+
+header:
+  image: /assets/images/culture-categories.jpg
+  teaser: /assets/images/culture-categories.jpg
+
 ---
 
 [![PND - 5 Fs of Culture (Filled in)](https://keelancook.files.wordpress.com/2020/08/2e370-pnd-5-fs-of-culture-filled-in.png?w=1024&h=791)](https://keelancook.files.wordpress.com/2020/08/2e370-pnd-5-fs-of-culture-filled-in.png)

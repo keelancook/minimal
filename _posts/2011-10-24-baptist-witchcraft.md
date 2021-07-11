@@ -1,5 +1,5 @@
 ---
-title: "Baptist witchcraft"
+title: "Baptist Witchcraft"
 date: "2011-10-24"
 
 tags: 
@@ -8,6 +8,11 @@ tags:
   - "christian-subculture"
   - "the-church"
   - "the-cross"
+
+header:
+  image: /assets/images/baptist-witchcraft.jpg
+  teaser: /assets/images/baptist-witchcraft.jpg
+
 ---
 
 _This post is more of a question than an answer. It is curiosity not advice, and I know that even bringing this issue up will bring scrutiny on me from others. My hope is that in raising my questions and my lack of understanding we can dialogue toward a Biblical perspective. So, as you read this post, please feel free to comment with your own thoughts or questions._ 

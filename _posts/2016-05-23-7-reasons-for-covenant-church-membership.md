@@ -5,6 +5,9 @@ author: Trevor King
 
 coverImage: "13ff7-5872373751_253667a41d_b.jpg"
 
+header: 
+    image: /assets/images/7-reasons-membership.jpg
+    teaser: /assets/images/7-reasons-membership.jpg
 
 ---
 

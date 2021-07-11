@@ -5,7 +5,13 @@ date: "2016-04-22"
 tags: 
   - "evangelism"
   - "worldview"
+
 coverImage: "e03d9-photo-1454625191319-786c05137ef5.jpg"
+
+header:
+  image: /assets/images/ask-about-religion.jpg
+  teaser: /assets/images/ask-about-religion.jpg
+
 ---
 
 I get this question a lot, so I thought it fitting to address it in a post.
