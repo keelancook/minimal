@@ -75,7 +75,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/keelancook"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
+      icon: "fab fa-fw fa-mastodon-square"
       url: "https://mastodon.social/@keelan"
 
 footer:
@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/keelancook"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon-square"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@keelan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
