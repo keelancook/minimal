@@ -10,7 +10,13 @@ tags:
   - "suburban"
   - "suburbs"
   - "urban"
+
 coverImage: "aa2a1-photo-1445873014904-7dc044bd92db-e1454943162671.jpg"
+
+header:
+  image: /assets/images/urban-missions-suburban.jpg
+  teaser: /assets/images/urban-missions-suburban.jpg
+
 ---
 
 # [![photo-1445873014904-7dc044bd92db](images/photo-1445873014904-7dc044bd92db.jpg)](http://blog.keelancook.com/wp-content/uploads/2016/02/photo-1445873014904-7dc044bd92db.jpg)

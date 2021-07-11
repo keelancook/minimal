@@ -9,7 +9,13 @@ tags:
   - "how-to-share-the-gospel"
   - "local-missions"
   - "missions"
+
 coverImage: "70359-evelyn-paris-96422.jpg"
+
+header:
+  image: /assets/images/door-knocking.jpg
+  teaser: /assets/images/door-knocking.jpg
+
 ---
 
 When I was in high school (in the late 90s), I discovered vintage clothes. In the small town where I grew up, we had small businesses known as "dig stores." They were vintage clothing shops that had a large piles of clothes on tables or in a room where you sorted through clothing, looking for buried treasure. I remember the first time I found a pair of bell bottom blue jeans.

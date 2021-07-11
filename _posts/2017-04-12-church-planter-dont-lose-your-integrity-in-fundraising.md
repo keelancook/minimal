@@ -10,7 +10,13 @@ tags:
   - "missions"
   - "pastor"
   - "planter"
+
 coverImage: "2321d-vitaly-145502.jpg"
+
+header:
+  image: /assets/images/integrity-fundraising.png
+  teaser: /assets/images/integrity-fundraising.png
+
 ---
 
 _I hope I can talk about this without sounding like I have an ax to grind. Fortunately, our organization is in the coaching business, not the funding business, when it comes to church plants. In my previous position, I worked at a seminary. Again, we did a lot to train church planters, but seminaries do not provide a stipend for planting. So, I'm really talking about what I witness as church plants deal with other organizations. This is not personal in that sense... but it is personal._

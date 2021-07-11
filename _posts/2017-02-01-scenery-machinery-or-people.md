@@ -10,7 +10,13 @@ tags:
   - "ministry"
   - "missions"
   - "people"
+
 coverImage: "cc0b4-pcfhb0r4-js-agberto-guimaraes.jpg"
+
+header:
+  image: /assets/images/scenery-machinery.jpg
+  teaser: /assets/images/scenery-machinery.jpg
+
 ---
 
 I want to challenge you to an intellectual exercise.
