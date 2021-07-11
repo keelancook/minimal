@@ -7,7 +7,13 @@ tags:
   - "ethnic-enclaves"
   - "great-commission"
   - "missions"
+
 coverImage: "4499f-zhang-dayong-138186.jpg"
+
+header:
+  image: /assets/images/ethnic-enclave.jpg
+  teaser: /assets/images/ethnic-enclave.jpg
+
 ---
 
 You may have never heard the term "ethnic enclave," but if you are interested in the Great Commission, then it is one you need to know. I come across it all the time in my research, so I decided it would be good to provide quick crash course in ethnic enclaves.

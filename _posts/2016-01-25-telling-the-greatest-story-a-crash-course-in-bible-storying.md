@@ -1,15 +1,21 @@
 ---
 title: "Telling the Greatest Story: A Crash Course in Bible Storying"
 date: "2016-01-25"
+author: Marie Burrus
 
 tags: 
   - "evangelism"
   - "missions"
   - "storying"
+
 coverImage: "b13d8-photo-1445445290350-18a3b86e0b5a-1.jpg"
+
+header:
+  image: /assets/images/greatest-story.jpg
+  teaser: /assets/images/greatest-story.jpg
 ---
 
-_Today's post is by Marie McDonald. Marie served in West Africa, and during her time there focused on Bible storying. She brings that expertise to the blog today to give a crash course so that anyone can begin using this technique engaging people groups here in the US._ 
+_This article is by Marie Burrus. Marie served in West Africa, and during her time there focused on Bible storying. She brings that expertise to the blog today to give a crash course so that anyone can begin using this technique engaging people groups here in the US._ 
 
  
 

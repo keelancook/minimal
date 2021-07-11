@@ -9,7 +9,13 @@ tags:
   - "missions"
   - "vocabulary"
   - "words"
+
 coverImage: "cf6e0-ovwxjeq8ofk-darius-anton.jpg"
+
+header:
+  image: /assets/images/foggy-words.jpg
+  teaser: /assets/images/foggy-words.jpg
+
 ---
 
 > #### _In order for us to engage people in outreach we need to do life with them and be intentional about loving on them._

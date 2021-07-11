@@ -7,7 +7,13 @@ tags:
   - "discipleship"
   - "service"
   - "spiritual-gifts"
+
 coverImage: "907c3-vjz7tkhncfk-ben-white.jpg"
+
+header:
+  image: /assets/images/one-church-many-gifts.jpg
+  teaser: /assets/images/one-church-many-gifts.jpg
+
 ---
 
  

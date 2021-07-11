@@ -24,3 +24,18 @@ Trevor King:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/notkennyrogers"
+
+Marie Burrus:
+  name        : "Marie Burrus"
+  bio         : "Marie Burrus is the Communications Specialist for the Union Baptist Association in Houston, TX. She manages, edits, and contributes content for UBA's blog, website, newsletter, and social media outlets. Marie uses her Master's degree in Intercultural Studies, her experience as a missionary in West Africa, and her lifelong love of words to write on outreach, culture, and the Christian life. "
+  avatar      : "/assets/images/headshots/marie-headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:marie@ubahouston.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ubahouston.org/marie"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mariemburrus"

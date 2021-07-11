@@ -7,7 +7,13 @@ tags:
   - "leadership"
   - "mission-of-the-church"
   - "vision-casting"
+
 coverImage: "30d84-david-travis-548920-unsplash.jpg"
+
+header:
+  image: /assets/images/church-vision.jpg
+  teaser: /assets/images/church-vision.jpg
+
 ---
 
 > "Church planter, you need a vision in order to successfully start your church."

@@ -1,12 +1,19 @@
 ---
 title: "Church Community Has an Outward Focus Too"
 date: "2016-06-01"
+author: Marie Burrus
 
 tags: 
   - "church"
   - "community"
   - "mission"
+
 coverImage: "b51a9-photo-1455734729978-db1ae4f687fc.jpg"
+
+header:
+  image: /assets/images/outward-focus.jpg
+  teaser: /assets/images/outward-focus.jpg
+
 ---
 
 _The following is a guest post by Marie McDonald. Marie has written here before and does excellent work in her local church leading others to discover and engage people groups._
