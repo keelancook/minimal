@@ -83,12 +83,13 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/keelancook"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon-square"
       url: "https://mastodon.social/@keelan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/keelancook"
+
  
 defaults:
   # _posts
