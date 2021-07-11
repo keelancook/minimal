@@ -8,7 +8,13 @@ tags:
   - "gospel"
   - "guilt"
   - "shame"
+
 coverImage: "b9100-z7wpznldfvy-thomas-kelley.jpg"
+
+header:
+  image: /assets/images/three-fold-salvation.jpg
+  teaser: /assets/images/three-fold-salvation.jpg
+
 ---
 
 A weak understanding of sin results in a pale image of the gospel.

@@ -9,7 +9,12 @@ tags:
   - "mentoring"
   - "pastoral-ministry"
   - "sin"
+
 coverImage: "55c8b-zcv_txbtsna-ben-white.jpg"
+
+header:
+  image: /assets/images/commiserating-sin.jpg
+  teaser: /assets/images/commiserating-sin.jpg
 ---
 
 We have all been there. Someone in our small group asks to have coffee and we agree. Soon, we are sitting across a table before work one morning and see the expression on their face. We know the expression, we have had the expression. It is guilt and shame mixed with concern. As the conversation progresses, it turns to confession. Our friend is struggling with a particular sin and knows that confession is the right approach to dealing with it. They are seeking help, and they have come to us.
