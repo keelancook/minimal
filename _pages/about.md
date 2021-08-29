@@ -6,9 +6,9 @@ modified: 2021-06-23
 
 ![Family Photo](https://i.imgur.com/yaqwzD6.jpg)
 
-Hey there! You've stumbled upon my personal website. You can find my professional site here: [Peoples Next Door](https://keelancook.com). This site is really just an experiment. I'm attempting to learn more about building my own websites with [Jekyll](https://jekyllrb.com). 
+My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). We currently live in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) for the past 5 years, most recently as an associate director. 
 
-My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). We live in Houston, TX where I serve with the [Union Baptist Association](https://ubahouston.org) as an associate director.
+I do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
 
 ## Connect
 You can find me on a handful or social media platforms:

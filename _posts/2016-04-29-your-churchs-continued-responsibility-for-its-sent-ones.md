@@ -12,7 +12,7 @@ tags:
 coverImage: "6384a-hand-846092_960_720.jpg"
 ---
 
-_The following is another guest post by Meredith Cooper. Meredith has been researching the topic of member care for missionaries and recently presented her findings. I wanted you to get a chance to hear from her on the topic._
+_The following is another guest post by Meredith Cook. Meredith has been researching the topic of member care for missionaries and recently presented her findings. I wanted you to get a chance to hear from her on the topic._
 
 Recently I presented a paper at a regional meeting of the Evangelical Missiological Society. In this paper, I argued that the local church should be the center of the missionary sending process and should take responsibility for providing member care to its members who it sends out. The centrality of the church in all aspects of mission is something I am still researching, but I want to focus this post specifically on member care and practical ways the church can take care of those it sends out.
 
