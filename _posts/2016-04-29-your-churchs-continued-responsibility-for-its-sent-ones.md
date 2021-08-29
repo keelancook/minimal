@@ -1,6 +1,7 @@
 ---
 title: "Your Church's Continued Responsibility for its Sent Ones"
 date: "2016-04-29"
+author: Meredith Cook
 
 tags: 
   - "advocacy-teams"
