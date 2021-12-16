@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ## Current
-*Associate Director at [Union Baptist Association](ubahouston.org)*
-
-*Instructor of North American Missiology at [Southeastern Baptist Theological Seminary](sebts.edu)*
+*Associate Director at [Center for Great Commission Studies](thecgcs.org) and instructor of Christian Missions at [Southeastern Baptist Theological Seminary](sebts.edu)*
 
 ---
 
@@ -20,8 +18,14 @@ author_profile: true
 ---
 
 ## Ministry Experience
+**Associate Director** (2021-Present)
+Center for Great Commission Studies
+Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 
-**Associate Director**  (2020-Present)
+**Instructor of North American Missiology** (2019-Present)
+Southeastern Baptist Theological Seminary, *Wake Forest, NC*
+
+**Associate Director**  (2020-2021)
 Union Baptist Association, *Houston, TX*
 
 **Senior Church Consultant** (2017-2019)
@@ -41,10 +45,7 @@ First Baptist Church, *Humboldt, TN*
 
 ---
 
-## Teaching and Higher Education Experience
-
-**Instructor of North American Missiology** (2019-Present)
-Southeastern Baptist Theological Seminary, *Wake Forest, NC*
+## Other Higher Education Experience
 
 **Urban Resource Coordinator** (2012-2017)
 Southeastern Baptist Theological Seminary, *Wake Forest, NC*
@@ -79,9 +80,3 @@ Trends (February 19, 2018).
 * "Super-Diversity and Urban Mission," Evangelical Missiological Society South-Central Regional Meeting, April 7, 2018, at the Graduate Institute of Applied Linguistics (Dallas, TX).
 * "The Church and Her Mission to the Cities: Developing Missiological Method for the Urban Context," Evangelical Missiological Society National Meeting October 14, 2016, at the Graduate Institute of Applied Linguistics (Dallas, TX).
 * “Moving Past Urban Ministry: Rethinking a Popular Definition," Evangelical Missiological Society National Meeting, September 19, 2015, at the Graduate Institue of Applied Linguistics (Dallas, TX).
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjEyNTYzNiwtNTE3MTY1NTU4LC01ND
-gxNDIyMTIsLTkxNjY1MTU0NiwtNTQ2MjMzOTcwLDE4NTE5Nzg3
-NjEsLTcxOTI1NTg2MV19
--->
