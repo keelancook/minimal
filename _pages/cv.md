@@ -19,7 +19,7 @@ author_profile: true
 
 ## Ministry Experience
 **Associate Director** (2021-Present)
-Center for Great Commission Studies
+Center for Great Commission Studies,
 Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 
 **Instructor of North American Missiology** (2019-Present)
