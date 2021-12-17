@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Current
-*Associate Director at [Center for Great Commission Studies](thecgcs.org) and instructor of Christian Missions at [Southeastern Baptist Theological Seminary](sebts.edu)*
+Associate Director for the [Center for Great Commission Studies](thecgcs.org). 
+
+Instructor of Christian Missions at [Southeastern Baptist Theological Seminary](sebts.edu).
 
 ---
 
