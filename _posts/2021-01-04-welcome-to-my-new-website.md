@@ -1,7 +1,7 @@
 ---
 title: Welcome to my new Website!
 date: 2021-12-19
-author: Keelan Cook
+
 
 
 header:
