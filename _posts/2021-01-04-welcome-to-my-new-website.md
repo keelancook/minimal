@@ -40,7 +40,7 @@ I want all of that content to be as accessible as possible, so the new format al
 ### The Commonplace Book
 In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.
 
-You can find my commonplace book: [commonplace.ml](commonplace.ml). And to read more about what this is, chech out the [About Page](commonplace.ml/about).
+You can find my commonplace book: [commonplace.ml](https://commonplace.ml). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
 
 ### Videos and Sermons
-Finally, I included a place on this new site to pull together some video content from teaching and preaching opportunities. I often get asked for video content concerning different issues, and I plan to include links to those for others. He can find those at [keelancook.com/videos](/videos).
+Finally, I included a place on this new site to pull together some video content from teaching and preaching opportunities. I often get asked for video content concerning different issues, and I plan to include links to those for others. You can find those at [keelancook.com/videos](/videos).
