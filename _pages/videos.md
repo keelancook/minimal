@@ -1,6 +1,6 @@
 ---
-title: Sermons
-permalink: /sermons/
+title: Videos
+permalink: /videos/
 ---
 
 
