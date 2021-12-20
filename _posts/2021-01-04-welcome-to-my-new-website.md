@@ -1,5 +1,5 @@
 ---
-title: Welcome to my new Website!
+title: Welcome to the New Website.
 date: 2021-12-19
 
 
@@ -9,9 +9,16 @@ header:
   image: /assets/images/teaser-image.png
 
 ---
-Welcome. If you're reading this, there's a good chance you've been to my website before, probably clicking on an article somewhere along the way. Historical, many of my site visitors are repeat offenders, but that's what I always hope for when it comes to the purposes I have for having a website in the first place.
+Welcome! If you're reading this, there's a good chance you've been to my website before, probably clicking on an article somewhere along the way. Historically, many of my site visitors are repeat offenders, but that is what I hope for when it comes to the purposes of this site in the first place.
 
 For those of you who have seen it before, you will notice the site is completely redesigned. This new look and functionality mark a turning point in my plans for this online space. With my move back to Southeastern as the Associate Director for the missions center and my work in the classroom, I hope to make this a hub for my research, writing, and resources for both students, churches, and other entities involved in Great Commission ministry.
+
+## A Work in Progress
+Pardon the dust. 
+
+I have probably launched this new iteration of the site prematurely. I am doing all the front-end work on this site myself. Like some others, the pandemic allowed me to pick up an extra hobby during lockdown. I started fiddling just a bit with web design. Since sharing resources online is such an important piece of my work, I wanted the freedom to do it on my own terms. The freedom comes at a cost. This website is admittedly not as slick as a professionally designed site. In my opinion, that is a feature and not a bug. Over the past few years, I've become more critical of the inherent consumerism and self-promotional platforming that accompanies a web presence. As one who sees the real importance of sharing work online but does not want to fall into the trap of self-importance that the social internet (falsely) promises, I believe less is probably more when it comes to this site. It is simple and hopefully easy to navifate, and though it will not win any awards, it is mine.
+
+I am still finding a few broken links and missing pictures. The functionality is 90% of the way there, though, so you should be able to take if for a spin. Keep coming back and you should see it become more polished as we go. You can also follow updates to the site with the RSS feed, and perhaps soon, I will have an email update option as well.
 
 ## Where this Site has Been
 I've had a presence online for a long time at this point. I started this website over a decade ago while I was serving as a missionary in West Africa. It was part missionary newsletter for updating my church and partners back at home and part my own means of processing all I was experiencing in my field of mission. It has been with me ever since, and over the years it has picked up new purposes along the way.
