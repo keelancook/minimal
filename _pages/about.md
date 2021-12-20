@@ -4,7 +4,7 @@ title: "About"
 modified: 2021-06-23
 ---
 
-![Family Photo](https://i.imgur.com/yaqwzD6.jpg)
+![Family Photo](https://i.imgur.com/j5WjWOT.jpg)
 
 My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). We currently live in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) for the past 5 years, most recently as an associate director. 
 
