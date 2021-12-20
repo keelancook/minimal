@@ -1,5 +1,5 @@
 ---
-title: Welcome to the New Website.
+title: Welcome to the New Website
 date: 2021-12-19
 
 
