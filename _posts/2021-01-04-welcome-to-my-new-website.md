@@ -18,9 +18,9 @@ Pardon the dust.
 
 I probably launched this new iteration of the site prematurely. I am doing all the front-end work on this site myself. Like some others, the pandemic allowed me to pick up an extra hobby during lockdown. I started fiddling just a bit with web design. Since sharing resources online is such an important piece of my work, I wanted the freedom to do it on my own terms. The freedom comes at a cost. This website is admittedly not as slick as a professionally designed site. In my opinion, that is a feature and not a bug. 
 
-Over the past few years, I've become more critical of the inherent consumerism and self-promotional platforming that accompanies a web presence. As one who sees the real importance of sharing work online but does not want to fall into the trap of self-importance that the social internet (falsely) promises, I believe less is probably more when it comes to this site. It is simple and hopefully easy to navifate, and though it will not win any awards, it is mine.
+Over the past few years, I've become more critical of the inherent consumerism and self-promotional platforming that accompanies a web presence. As one who sees the real importance of sharing work online but does not want to fall into the trap of self-importance that the social internet (falsely) promises, I believe less is probably more when it comes to this site. It is simple and hopefully easy to navigate, and though it will not win any awards, it is mine.
 
-I am still finding a few broken links and missing pictures. The functionality is 90% of the way there, though, so you should be able to take if for a spin. Keep coming back and you should see it become more polished as we go. You can also follow updates to the site with the RSS feed, and perhaps soon, I will have an email update option as well. 
+I am still finding a few broken links and missing pictures. The functionality is 90% of the way there, though, so you should be able to take it for a spin. Keep coming back and you should see it become more polished as we go. You can also follow updates to the site with the RSS feed, and perhaps soon, I will have an email update option as well. 
 
 ## Where this Site has Been
 I've had a presence online for a long time at this point. I started this website over a decade ago while I was serving as a missionary in West Africa. It was part missionary newsletter for updating my church and partners back at home and part my own means of processing all I was experiencing in my field of mission. It has been with me ever since, and over the years it has picked up new purposes along the way.
@@ -49,7 +49,7 @@ I want all of that content to be as accessible as possible, so the new format al
 ### The Commonplace Book
 In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.
 
-You can find my commonplace book: [commonplace.ml](https://commonplace.ml). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
+You can find my commonplace book here: [commonplace.ml](https://commonplace.ml). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
 
 ### Videos and Sermons
 Finally, I included a place on this new site to pull together some video content from teaching and preaching opportunities. I often get asked for video content concerning different issues, and I plan to include links to those for others. You can find those at [keelancook.com/videos](/videos).
