@@ -8,6 +8,10 @@ tags:
   - "muslims"
   - "worldview"
 coverImage: "7a7a5-9j1hxx8jo1i-lukasz-saczek.jpg"
+
+header:
+  image: /assets/images/iceburg.png
+  teaser: /assets/images/iceburg.png
 ---
 
 Americans love our categories. We love our boxes and labels. Even today, with the postmodern push away from classification, we Western thinkers still organize information by placing "like items" together in taxonomies. Categories can be helpful to understand certain generalizations about a set of items, ideas, or people. However, categories also obscure information. Every time we lump two like things together, we focus on the similarities and overlook the differences. This is particularly true when we view something as an outsider.
