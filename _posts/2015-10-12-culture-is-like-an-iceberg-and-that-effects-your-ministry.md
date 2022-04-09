@@ -17,8 +17,6 @@ header:
 
 ---
 
-[![Wikisource-logo.svg](images/Wikisource-logo.svg_-286x300.png)](https://keelancook.files.wordpress.com/2020/08/cbd1b-wikisource-logo.svg_.png)
-
 Culture runs deep.
 
 In fact, culture runs deeper than most ever realize. When we think about culture, we typically think about dress and food, dancing and art, language and festivals. To be certain, these are all cultural activities. Culture is not less than these things; however, it is driven by much deeper issues.
