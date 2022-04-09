@@ -10,6 +10,11 @@ tags:
   - "people-groups"
   - "peoples-next-door"
 coverImage: "cbd1b-wikisource-logo.svg_.png"
+
+header:
+  image: /assets/images/iceberg.png
+  teaser: /assets/images/iceberg.png
+
 ---
 
 [![Wikisource-logo.svg](images/Wikisource-logo.svg_-286x300.png)](https://keelancook.files.wordpress.com/2020/08/cbd1b-wikisource-logo.svg_.png)
