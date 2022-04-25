@@ -12,11 +12,13 @@ Before the move, we lived in Houston, TX where I served with the [Union Baptist 
 
 I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
 ## Connect
-You can find me on a handful or social media platforms:
+You can find me on a handful or social media platforms. **The easiest ways to contact me are through email and Twitter**. I check both of those regularly. The other platforms I use much less frequently. You may see me post stuff their periodically, but it may be weeks before you get a response from me if you attempt to contact me there.
+* [Email] (mailto:kcook@sebts.edu)
 * [Twitter](https://twitter.com/keelancook)
 * [Facebook](https://facebook.com/keelancook)
 * [LinkedIn](https://linkedin.com/in/keelancook)
 * <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a> - *I'm dabbling with the concept of decentralized social media as a means to get away from the toxicity on ad-revenue based "big social".*
+
 ## About this Website
 This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church. I want all that I do to point to the priority of gospel proclamation among the nations in the mission of the church. 
 
