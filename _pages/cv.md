@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Current
-Associate Director for the [Center for Great Commission Studies](thecgcs.org). 
+George Liele Director for the [Center for Great Commission Studies](thecgcs.org). 
 
 Instructor of Christian Missions at [Southeastern Baptist Theological Seminary](sebts.edu).
 
@@ -20,7 +20,11 @@ Instructor of Christian Missions at [Southeastern Baptist Theological Seminary](
 ---
 
 ## Ministry Experience
-**Associate Director** (2021-Present)
+**Director** (2022-Present)
+Center for Great Commission Studies,
+Southeastern Baptist Theological Seminary, *Wake Forest, NC*
+
+**Associate Director** (2021-2022)
 Center for Great Commission Studies,
 Southeastern Baptist Theological Seminary, *Wake Forest, NC*
 
@@ -41,9 +45,6 @@ North American Mission Board, *Washington, DC*
 
 **Journeyman** (2009-2011)
 International Mission Board, *West Africa*
-
-**College Minister** (2005-2009)
-First Baptist Church, *Humboldt, TN*
 
 ---
 

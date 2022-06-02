@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Keelan Cook"
   avatar : "/assets/images/headshots/keelan-headshot.jpg"
-  bio    : "Keelan Cook is the Associate Director for the Center for Great Commission Studies at Southeastern Baptist Theological Seminary where he serves as an instructor of Christian missions."
+  bio    : "Keelan Cook is the George Liele Director for the Center for Great Commission Studies at Southeastern Baptist Theological Seminary where he serves as an instructor of Christian missions."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
@@ -73,7 +73,7 @@ author:
       url: "https://facebook.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://thewell.ml/@keelancook"
+      url: "https://libranet.de/@keelan"
 
 footer:
   links:
@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://thewell.ml/@keelancook"
+      url: "https://libranet.de/@keelan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/keelancook"

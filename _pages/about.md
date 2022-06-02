@@ -6,9 +6,9 @@ modified: 2021-06-23
 
 ![Family Photo](https://i.imgur.com/j5WjWOT.jpg)
 
-My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). We just moved the family back to Wake Forest, NC so that I could serve as the Associate Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
+My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). I recently took the role of George Liele Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
 
-Before the move, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions. 
+Before the moved back to Wake Forest, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions. 
 
 I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
 ## Connect
