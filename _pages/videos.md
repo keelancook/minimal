@@ -7,7 +7,7 @@ permalink: /videos/
 ---
 
 ## Neartown Church
-Neartown is our current church family and I have the pleasure of serving on the preaching team.
+Neartown was our church home in Houston, where I served on a preaching team. So, I have several sermons from our time there.
 
 ---
 
