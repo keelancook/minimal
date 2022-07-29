@@ -49,4 +49,4 @@ These churches have theological depth and cultural acumen. These churches are ra
 
 ### Which quadrant?
 
-So, the question remains. Where would you place your church? Hopefully, your church is biblically faithful. Does it pay attention to the unchurched context it hopes to reach? How much effort does your church put into being missional? If you wonder what that even looks like, check out this post on [How to Know if You Church is Missional](http://blog.keelancook.com/2016/05/how-to-know-if-your-church-is-missional.html).
+So, the question remains. Where would you place your church? Hopefully, your church is biblically faithful. Does it pay attention to the unchurched context it hopes to reach? How much effort does your church put into being missional? If you wonder what that even looks like, check out this post on [How to Know if You Church is Missional](https://keelancook.com/2016/05/02/how-to-know-if-your-church-is-missional/).
