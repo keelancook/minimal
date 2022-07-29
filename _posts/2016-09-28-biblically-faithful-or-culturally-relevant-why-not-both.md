@@ -23,7 +23,7 @@ Of course, both sides of the spectrum look at the other with disdain, and certai
 
 This is why the Hughes Scale is so helpful. He breaks these ideas down into quadrants, and any church can evaluate themselves based on his graph. According to the graph, churches can fall into one of four categories. You most likely know churches in each.
 
-![Hughes Scale](images/hughes-scale.png)
+![Hughes Scale](/keelancook.github.io/assets/images/hughes-scale.png)
 
 ### Quadrant C
 
