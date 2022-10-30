@@ -4,7 +4,7 @@ title: "About"
 modified: 2021-06-23
 ---
 
-![Family Photo](https://i.imgur.com/j5WjWOT.jpg)
+![Family Photo](https://i.imgur.com/ZIp78o3.jpg)
 
 My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). I recently took the role of George Liele Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
 
