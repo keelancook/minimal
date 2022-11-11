@@ -20,6 +20,7 @@ Feel free to give it a listen, and let me know if you have any questions. You ca
 
 #### Description:
 *Join Scott Hildreth and Keelan Cook this week as they begin a new series highlighting the importance of cooperating together for the sake of missions.*
+
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/78JaYXbC83hxx7ARpniwzk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
