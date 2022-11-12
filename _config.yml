@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/keelancook"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a>
+      url: "https://mastodon.social/@keelan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/keelancook"
