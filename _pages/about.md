@@ -19,6 +19,25 @@ You can find me on a handful of social media platforms. **Twitter and email are 
 * [LinkedIn](https://linkedin.com/in/keelancook)
 * <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a> - *I'm dabbling with the concept of decentralized social media as a means to get away from the toxicity on ad-revenue based "big social".*
 
+Or fill out this contact form, and it will send me an email:
+
+<form
+  action="https://formspree.io/f/xyyadopz"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+
 ## About this Website
 This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church. I want all that I do to point to the priority of gospel proclamation among the nations in the mission of the church. 
 
@@ -32,7 +51,7 @@ I want all of that content to be as accessible as possible, so the new format al
 ### The Commonplace Book
 In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.
 
-You can find my commonplace book here: [commonplace.ml](https://commonplace.ml). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
+You can find my commonplace book here: [keelan.wiki](https://keelan.wiki). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
 
 ### Videos and Sermons
 Finally, I included a place on this new site to pull together some video content from teaching and preaching opportunities. I often get asked for video content concerning different issues, and I plan to include links to those for others. You can find those at [keelancook.com/videos](/videos).
