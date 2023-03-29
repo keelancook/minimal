@@ -81,8 +81,6 @@ After importing the sheet, it will ask you which column of data to use in order 
 
 The result is a map full of places that are connected to different nationalities or people groups. This allows you to see who is now in your neighborhood, and it also shows you where they are. Add this knowledge to all the personal relationship development that occurred by having your own members find out the information, and you have some valuable missions research.
 
-[![screen-shot-2016-09-14-at-8-33-04-am](images/Screen-Shot-2016-09-14-at-8.33.04-AM-1024x568.png)](https://keelancook.files.wordpress.com/2020/08/c7b7e-screen-shot-2016-09-14-at-8.33.04-am.png)
-
 I encourage you to play with these features in Google Drive. After all, they are free, and pretty easy to use. Shoot me an email or a comment if you have any questions, and I would be happy to help your church start thinking through ways they can discover and engage the community around them.
 
 ### Further Reading
