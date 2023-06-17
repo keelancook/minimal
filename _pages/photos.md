@@ -5,12 +5,12 @@ modified: 2023-06-17
 gallery:
   - url: /photos/magtree1.jpg
     image_path: /assets/images/photos/magtree1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "magnolia tree image 1"
+    title: "This is inside the canopy of a magnolia tree on campus."
   - url: /assets/images/photos/magtree2.jpg
     image_path: /assets/images/photos/magtree2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "magnolia tree image 2"
+    title: "This is inside the canopy of a magnolia tree on campus."
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
