@@ -26,4 +26,4 @@ gallery:
 # Photo Album
 I do not fancy myself a photographer, but every now and then I see something worth capturing. The ones I like the most land here.
 
-{% include gallery class="full" caption="Testing the idea of a gallery on my website." %
+{% include gallery class="full" caption="Testing the idea of a gallery on my website." %}
