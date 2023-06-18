@@ -43,13 +43,21 @@ gallery2:
     image_path: /assets/images/albums/bigbend3.jpg
     alt: "big bend image 3"
     title: "Santa Elena Canyon at Big Bend National Park."
+  - url: /assets/images/albums/houston1.jpg
+    image_path: /assets/images/albums/houston1.jpg
+    alt: "houston image 1"
+    title: "Downtown Houston on a bike ride."
+  - url: /assets/images/albums/sandiego1.jpg
+    image_path: /assets/images/albums/sandiego1.jpg
+    alt: "san diego image 1"
+    title: "Sunset cliffs in San Diego."
 
 ---
 
 I do not fancy myself a photographer, but every now and then I see something worth capturing. The ones I like the most land here.
 
 ### Kayaking
-The shots below are all taken from my kayak. Growing up in Tennessee, I've been paddling since I was a little kid. When we moved to Houston, I essentially gave up the passtime and only recently picked it back up after moving back to North Carolina. 
+The shots below are all taken from my kayak. Growing up in Tennessee, I've been paddling since I was a little kid. When we moved to Houston, I gave up the passtime and only recently picked it back up after moving back to North Carolina. 
 
 {% include gallery id="gallery1" class="full" %}
 
