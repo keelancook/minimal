@@ -23,18 +23,6 @@ gallery1:
     title: "Kayaking is a great opportunity to see wildlife up close."
 
 gallery2:
-  - url: assets/images/albums/magtree1.jpg
-    image_path: /assets/images/albums/magtree1.jpg
-    alt: "magnolia tree image 1"
-    title: "This is inside the canopy of a magnolia tree on campus."
-  - url: /assets/images/albums/magtree2.jpg
-    image_path: /assets/images/albums/magtree2.jpg
-    alt: "magnolia tree image 2"
-    title: "This is inside the canopy of a magnolia tree on campus."
-  - url: /assets/images/albums/bigbend1.jpg
-    image_path: /assets/images/albums/bigbend1.jpg
-    alt: "big bend image 1"
-    title: "A panoramic shot of Big Bend National Park."
   - url: /assets/images/albums/bigbend2.jpg
     image_path: /assets/images/albums/bigbend2.jpg
     alt: "big bend image 2"
@@ -51,6 +39,19 @@ gallery2:
     image_path: /assets/images/albums/sandiego1.jpg
     alt: "san diego image 1"
     title: "Sunset cliffs in San Diego."
+  - url: assets/images/albums/magtree1.jpg
+    image_path: /assets/images/albums/magtree1.jpg
+    alt: "magnolia tree image 1"
+    title: "This is inside the canopy of a magnolia tree on campus."
+  - url: /assets/images/albums/magtree2.jpg
+    image_path: /assets/images/albums/magtree2.jpg
+    alt: "magnolia tree image 2"
+    title: "This is inside the canopy of a magnolia tree on campus."
+  - url: /assets/images/albums/bigbend1.jpg
+    image_path: /assets/images/albums/bigbend1.jpg
+    alt: "big bend image 1"
+    title: "A panoramic shot of Big Bend National Park."
+
 
 ---
 
