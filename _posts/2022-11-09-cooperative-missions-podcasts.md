@@ -2,7 +2,7 @@
 title: "Together We Go: All about Cooperative Missions"
 date: "2022-11-02"
 author: Keelan Cook
-
+tags: missions, cooperation
 header:
   teaser: /assets/images/together-plank.png
   image: /assets/images/together-plank.png

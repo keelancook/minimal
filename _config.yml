@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Keelan Cook
 subtitle: Missiologist
-logo: "/assets/images/seal.png"
+logo: "/assets/images/logo.png"
 email: kcook@sebts.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The online home for Keelan Cook. Keelan is a missiologist who researches and writes on church and missions both in a North American and international context.
