@@ -38,7 +38,7 @@ When I was serving in West Africa, we had long-standing church partners that had
 
 ## Helping without Hurting
 
-By now, I imagine a good number of pastors and church leaders are familiar with the book _When Helping Hurts_, by Steve Corbett and Brian Fikkert. If not, you should \[check it out\](http://put in Amazin affiliate link here). Corbett and Fikkert point out that sometimes, despite our best intentions, we provide aid in a way that actually hurts more than it helps. This is especially true when we cross significant cultural barriers to provide that aid. However, being in a real partnership with a missionary team on the field provides your church with cross-cultural workers who know that location intimately and can help you make wise decisions about what you're doing there—that is, as long as the local church listens to the missionary team concerning best practices for their engagement.
+By now, I imagine a good number of pastors and church leaders are familiar with the book _When Helping Hurts_, by Steve Corbett and Brian Fikkert. If not, you should [check it out](https://amzn.to/3LufYQx). Corbett and Fikkert point out that sometimes, despite our best intentions, we provide aid in a way that actually hurts more than it helps. This is especially true when we cross significant cultural barriers to provide that aid. However, being in a real partnership with a missionary team on the field provides your church with cross-cultural workers who know that location intimately and can help you make wise decisions about what you're doing there—that is, as long as the local church listens to the missionary team concerning best practices for their engagement.
 
 ## Identifying your own for sending through international missions partnerships.
 
