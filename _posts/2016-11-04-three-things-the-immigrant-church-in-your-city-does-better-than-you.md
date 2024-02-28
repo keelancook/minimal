@@ -18,7 +18,7 @@ Of course, I do not know your church, and I do not know the immigrant church in 
 
 We can (and must) learn from our immigrant brothers and sisters in Christ.
 
-When evangelical Christians consider the large number of immigrants coming to North America, they most often turn first to the unreached. There are millions of Muslim, Hindu, and Buddhist peoples living in, and moving to, the US. This is a healthy first concern, and I think more churches need to think about how they plan to proclaim the gospel to these new neighbors. So much so, we have [a whole website dedicated to the idea.](http://blog.keelancook.com/2015/08/introducing-the-peoples-next-door-blog.html)
+When evangelical Christians consider the large number of immigrants coming to North America, they most often turn first to the unreached. There are millions of Muslim, Hindu, and Buddhist peoples living in, and moving to, the US. This is a healthy first concern, and I think more churches need to think about how they plan to proclaim the gospel to these new neighbors. So much so, we have [a whole website dedicated to the idea.](https://keelancook.com/2015/08/14/introducing-the-peoples-next-door-blog/)
 
 ### **Christianity in North America is not waning, it is just changing colors.**
 
