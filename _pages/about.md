@@ -13,7 +13,7 @@ Before we moved back to Wake Forest, we lived in Houston, TX where I served with
 I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
 
 ## Connect
-You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.**. I check it regularly. The social platforms I use much less frequently. You may see me post stuff there periodically. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it. I am rarely on Twitter anymore, but I'm experimenting with some decentralized social media accounts to see where that trends goes.
+You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.** I check it regularly. The social platforms I use much less frequently. You may see me post stuff there periodically. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it. I am rarely on Twitter anymore, but I'm experimenting with some decentralized social media accounts to see where that trends goes.
 * [Email](mailto:kcook@sebts.edu)
 * [Facebook](https://facebook.com/keelancook)
 * [LinkedIn](https://linkedin.com/in/keelancook)
