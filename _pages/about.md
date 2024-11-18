@@ -6,18 +6,20 @@ modified: 2021-06-23
 
 ![Family Photo](https://i.imgur.com/ZIp78o3.jpg)
 
-My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). I recently took the role of George Liele Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
+My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. We [welcomed Ezra into the world on February 16, 2021](_posts/2021-02-16-introducing-charles-ezra.md). I serve as the George Liele Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
 
-Before we moved back to Wake Forest, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions. 
+Before we moved back to Wake Forest, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions. I've helped plant and pastor churches in the United States as well.
 
 I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
+
 ## Connect
-You can find me on a handful of social media platforms. **Twitter and email are your best shot at getting a quick response from me.**. I check both of those regularly. The other platforms (Facebook and LinkedIn) I use much less frequently. You may see me post stuff there periodically. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it.
+You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.**. I check it regularly. The social platforms I use much less frequently. You may see me post stuff there periodically. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it. I am rarely on Twitter anymore, but I'm experimenting with some decentralized social media accounts to see where that trends goes.
 * [Email](mailto:kcook@sebts.edu)
-* [Twitter](https://twitter.com/keelancook)
 * [Facebook](https://facebook.com/keelancook)
 * [LinkedIn](https://linkedin.com/in/keelancook)
-* <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a> - *I'm dabbling with the concept of decentralized social media as a means to get away from the toxicity on ad-revenue based "big social".*
+* [Twitter](https://twitter.com/keelancook)
+* [BlueSky](https://bsky.app/profile/keelancook.com)
+* <a rel="me" href="https://mastodon.social/@keelan">Mastodon</a> 
 
 Or fill out this contact form, and it will send me an email:
 

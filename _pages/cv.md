@@ -13,7 +13,7 @@ Instructor of Christian Missions at [Southeastern Baptist Theological Seminary](
 ---
 
 ## Education
-* Doctor of Philosophy in Applied Theology (In process) - *Southeastern Baptist Theological Seminary*
+* Doctor of Philosophy in Applied Theology (2024)- *Southeastern Baptist Theological Seminary*
 * Master of Arts in Christian Studies (2008) - *Union University*
 * Bachelor of Arts in Public Relations (2004) - *Union University*
 
