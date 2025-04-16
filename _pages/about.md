@@ -10,7 +10,7 @@ My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nor
 
 Before we moved back to Wake Forest, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions. I've helped plant and pastor churches in the United States as well.
 
-I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](cv.md).
+I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](keelancook.com/cv).
 
 ## Connect
 You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.** I check it regularly. The social platforms I use much less frequently. You may see me post stuff there periodically. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it. I am rarely on Twitter anymore, but I'm experimenting with some decentralized social media accounts to see where that trends goes.
@@ -53,7 +53,7 @@ I want all of that content to be as accessible as possible, so the new format al
 ### The Commonplace Book
 In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.
 
-You can find my commonplace book here: [keelan.wiki](https://keelan.wiki). And to read more about what this is, check out the [About Page](https://commonplace.ml/about).
+You can find my commonplace book here: [keelan.wiki](https://notes.keelancook.com). And to read more about what this is, check out the [About Page](https://notes.keelancook.com/about).
 
 ### Videos and Sermons
 Finally, I included a place on this new site to pull together some video content from teaching and preaching opportunities. I often get asked for video content concerning different issues, and I plan to include links to those for others. You can find those at [keelancook.com/videos](/videos).
